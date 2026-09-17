@@ -1,10 +1,7 @@
 {
-  "source": "flooreno.ca WooCommerce Store API",
-  "orderby": "mixed (popularity + category + id-asc)",
-  "productCount": 10097,
-  "categoryCount": 15,
-  "rawFiles": 148,
-  "updatedAt": "2026-09-17T18:34:36.272203-04:00",
-  "target": 17236,
-  "note": "Past 10k milestone via orderby=id long-tail; popularity pages 8/10/20/33+ and id gaps remain"
+  "imported": 12701,
+  "categories": 15,
+  "source": "https://flooreno.ca WooCommerce Store API via Apify web-fetch",
+  "catalogTotalReported": 17236,
+  "note": "Partial sync. Re-run scripts/fetch_flooreno_pages.md / Apify web-fetch with orderby=popularity pages to expand."
 }
