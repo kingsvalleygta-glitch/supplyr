@@ -283568,6 +283568,2971 @@
     ]
   },
   {
+    "id": "fr-858949",
+    "sku": "210000021212",
+    "slug": "sherwood-summit-ii-sb-biscuit-4-1-4-red-oak-19-00-sf-box",
+    "name": "SHERWOOD SUMMIT II S&B BISCUIT 4 1/4” RED OAK 19.00 SF/BOX",
+    "description": "SHERWOOD SUMMIT II S&B BISCUIT 4 1/4” RED OAK 19.00 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 11400,
+    "inStock": true,
+    "stockQty": 25,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Dragona Flooring",
+        "value": "51"
+      },
+      {
+        "label": "Dragona Scarborough",
+        "value": "51"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858950",
+    "sku": "210000021214",
+    "slug": "sherwood-summit-ii-sb-almond-4-1-4-red-oak-19-00-sf-box",
+    "name": "SHERWOOD SUMMIT II S&B ALMOND 4 1/4” RED OAK 19.00 SF/BOX",
+    "description": "SHERWOOD SUMMIT II S&B ALMOND 4 1/4” RED OAK 19.00 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 11400,
+    "inStock": true,
+    "stockQty": 25,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Dragona Flooring",
+        "value": "1"
+      },
+      {
+        "label": "Dragona Scarborough",
+        "value": "1"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858951",
+    "sku": "210000021215",
+    "slug": "rd2330-sand",
+    "name": "RD2330 SAND",
+    "description": "RD2330 SAND. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 1,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858952",
+    "sku": "210000021217",
+    "slug": "rockwool-r28-comfortbatt-2x8-wood-stud-23-inch-insulation-30-sq-ft",
+    "name": "ROCKWOOL R28 COMFORTBATT 2X8 WOOD STUD 23 INCH INSULATION 30 SQ FT",
+    "description": "ROCKWOOL R28 COMFORTBATT 2X8 WOOD STUD 23 INCH INSULATION 30 SQ FT. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 9164,
+    "inStock": true,
+    "stockQty": 25,
+    "unit": "each",
+    "brand": "ROCKWOOL",
+    "specs": [
+      {
+        "label": "Manufacturer",
+        "value": "ROCKWOOL"
+      },
+      {
+        "label": "M FlooReno Building Supplies",
+        "value": "24"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/wiusumsuljqtfhvnfhgh.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858953",
+    "sku": "210000021218",
+    "slug": "foundation-river-84200",
+    "name": "FOUNDATION RIVER 84200 COMMERCIAL CARPET",
+    "description": "FOUNDATION RIVER 84200 COMMERCIAL CARPET. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 1200,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Dragona Flooring",
+        "value": "666"
+      },
+      {
+        "label": "Dragona Scarborough",
+        "value": "666"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858954",
+    "sku": "210000021219",
+    "slug": "foundation-cloud-84138",
+    "name": "FOUNDATION CLOUD 84138 COMMERCIAL CARPET",
+    "description": "FOUNDATION CLOUD 84138 COMMERCIAL CARPET. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 1200,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Dragona Flooring",
+        "value": "980"
+      },
+      {
+        "label": "Dragona Scarborough",
+        "value": "980"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858955",
+    "sku": "210000021220",
+    "slug": "foundation-charcoal-86577",
+    "name": "FOUNDATION CHARCOAL 86577 COMMERCIAL CARPET",
+    "description": "FOUNDATION CHARCOAL 86577 COMMERCIAL CARPET. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 1200,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Dragona Flooring",
+        "value": "632"
+      },
+      {
+        "label": "Dragona Scarborough",
+        "value": "632"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858956",
+    "sku": "210000021221",
+    "slug": "titan-diamond-tools-hs010-diamond-hex-shank-core-bit-3-8-in-10mm",
+    "name": "TITAN DIAMOND TOOLS HS010 DIAMOND HEX SHANK CORE BIT – 3/8 IN (10MM)",
+    "description": "TITAN DIAMOND TOOLS HS010 DIAMOND HEX SHANK CORE BIT – 3/8 IN (10MM). Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 219900,
+    "inStock": true,
+    "stockQty": 25,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Dragona Flooring",
+        "value": "5"
+      },
+      {
+        "label": "DRAGONA OTTAWA",
+        "value": "3"
+      },
+      {
+        "label": "Dragona Scarborough",
+        "value": "5"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/dczry29k4cplkjuvgoto.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858957",
+    "sku": "210000021222",
+    "slug": "titan-diamond-tools-md075-3-75mm-mini-diamond-cutting-blade",
+    "name": "TITAN DIAMOND TOOLS MD075 3″ (75MM) MINI DIAMOND CUTTING BLADE",
+    "description": "TITAN DIAMOND TOOLS MD075 3″ (75MM) MINI DIAMOND CUTTING BLADE. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 3295,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/c9zhpdcvsdyzgakbqter.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858958",
+    "sku": "210000021223",
+    "slug": "titan-diamond-tools-md050-4-1-2-115mm-phantom-glass-diamond-cutting-blade",
+    "name": "TITAN DIAMOND TOOLS MD050 4-1/2″ (115MM) PHANTOM GLASS DIAMOND CUTTING BLADE",
+    "description": "TITAN DIAMOND TOOLS MD050 4-1/2″ (115MM) PHANTOM GLASS DIAMOND CUTTING BLADE. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 3995,
+    "inStock": true,
+    "stockQty": 25,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "DRAGONA OTTAWA",
+        "value": "1"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/bbbgwhfcydaepalcvhwe.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858959",
+    "sku": "210000021224",
+    "slug": "titan-diamond-tools-flap-disc-fd115-060-41-2-60grit-diamond-soothing-blade",
+    "name": "TITAN DIAMOND TOOLS FLAP DISC FD115-060 41/2″ (60GRIT) DIAMOND SOOTHING BLADE",
+    "description": "TITAN DIAMOND TOOLS FLAP DISC FD115-060 41/2″ (60GRIT) DIAMOND SOOTHING BLADE. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 1,
+    "inStock": true,
+    "stockQty": 25,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "DRAGONA OTTAWA",
+        "value": "1"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/z0a7pk199krhhgc7tjbo.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858960",
+    "sku": "210000021225",
+    "slug": "titan-diamond-tools-flap-disc-fd115-120-41-2-120grit-diamond-smoothing-blade",
+    "name": "TITAN DIAMOND TOOLS FLAP DISC FD115-120 41/2″ (120GRIT) DIAMOND SMOOTHING BLADE",
+    "description": "TITAN DIAMOND TOOLS FLAP DISC FD115-120 41/2″ (120GRIT) DIAMOND SMOOTHING BLADE. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 1,
+    "inStock": true,
+    "stockQty": 25,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "DRAGONA OTTAWA",
+        "value": "1"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/jz4heppgdg9z1egkcqcr.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858961",
+    "sku": "210000021226",
+    "slug": "titan-diamond-tools-extension-shaft-es127115-5-127mm-extension-shaft",
+    "name": "TITAN DIAMOND TOOLS EXTENSION SHAFT ES127115- 5″ (127MM) EXTENSION SHAFT",
+    "description": "TITAN DIAMOND TOOLS EXTENSION SHAFT ES127115- 5″ (127MM) EXTENSION SHAFT. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 1,
+    "inStock": true,
+    "stockQty": 25,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "DRAGONA OTTAWA",
+        "value": "2"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858962",
+    "sku": "210000021227",
+    "slug": "titan-diamond-tools-cb065-diamond-core-bit-2-1-2-in-65mm-diameter-2-1-2-in-57mm",
+    "name": "TITAN DIAMOND TOOLS CB065 DIAMOND CORE BIT – 2-1/2 IN (65MM) DIAMETER: 2-1/2 IN (57MM)",
+    "description": "TITAN DIAMOND TOOLS CB065 DIAMOND CORE BIT – 2-1/2 IN (65MM) DIAMETER: 2-1/2 IN (57MM). Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 1,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/nvq6inru6jq7qqx7nr1q.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858964",
+    "sku": "210000021228",
+    "slug": "crain-346-j-hand-roller",
+    "name": "CRAIN 346 J HAND ROLLER",
+    "description": "CRAIN 346 J HAND ROLLER. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 2999,
+    "inStock": true,
+    "stockQty": 25,
+    "unit": "each",
+    "brand": "CRAIN",
+    "specs": [
+      {
+        "label": "Manufacturer",
+        "value": "CRAIN"
+      },
+      {
+        "label": "Dragona Flooring",
+        "value": "5"
+      },
+      {
+        "label": "Dragona Scarborough",
+        "value": "5"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/aylpdryudzk8hps55xgs.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858965",
+    "sku": "210000021229",
+    "slug": "olfa-wd-l-brn-wood-composite-snap-off-knife",
+    "name": "OLFA WD-L/BRN WOOD COMPOSITE SNAP OFF KNIFE",
+    "description": "OLFA WD-L/BRN WOOD COMPOSITE SNAP OFF KNIFE. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 1599,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "OLFA",
+    "specs": [
+      {
+        "label": "Manufacturer",
+        "value": "OLFA"
+      },
+      {
+        "label": "Dragona Flooring",
+        "value": "20"
+      },
+      {
+        "label": "Dragona Scarborough",
+        "value": "20"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/dycbzmdjutne99l7mh6y.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858968",
+    "sku": "210000019641",
+    "slug": "unfinished-white-oak-hardwood-7in-1-sqft",
+    "name": "UNFINISHED WHITE OAK HARDWOOD 7IN – 1 SQFT",
+    "description": "UNFINISHED WHITE OAK HARDWOOD 7IN – 1 SQFT. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 656,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858969",
+    "sku": "210000019784",
+    "slug": "laminate-stair-tread-plus-riser-chocolate-oak-2-set-box",
+    "name": "LAMINATE STAIR TREAD PLUS RISER – CHOCOLATE OAK (2 SET/BOX)",
+    "description": "LAMINATE STAIR TREAD PLUS RISER – CHOCOLATE OAK (2 SET/BOX). Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 3938,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858970",
+    "sku": "210000019820",
+    "slug": "laminate-stair-tread-plus-riser-natural-red-oak-4-set-box",
+    "name": "LAMINATE STAIR TREAD PLUS RISER – NATURAL RED OAK (4 SET/BOX)",
+    "description": "LAMINATE STAIR TREAD PLUS RISER – NATURAL RED OAK (4 SET/BOX). Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 3938,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858971",
+    "sku": "210000019823",
+    "slug": "colonial-satin-hardwood-walnut-19-sf-box",
+    "name": "COLONIAL SATIN HARDWOOD WALNUT 19 SF/BOX",
+    "description": "COLONIAL SATIN HARDWOOD WALNUT 19 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 9975,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858972",
+    "sku": "210000019833",
+    "slug": "laminate-stair-tread-plus-riser-pewter-2-set-box",
+    "name": "LAMINATE STAIR TREAD PLUS RISER – PEWTER (2 SET/BOX)",
+    "description": "LAMINATE STAIR TREAD PLUS RISER – PEWTER (2 SET/BOX). Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 3938,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/i8gzblyj2iw8rx3wgs3u.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858973",
+    "sku": "210000019887",
+    "slug": "laminate-stair-tread-plus-riser-bordeaux-oak-4-set-box",
+    "name": "LAMINATE STAIR TREAD PLUS RISER – BORDEAUX OAK (4 SET/BOX)",
+    "description": "LAMINATE STAIR TREAD PLUS RISER – BORDEAUX OAK (4 SET/BOX). Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 3938,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858974",
+    "sku": "210000019911",
+    "slug": "3-1-4-birch-hardwood-caraway-20-sf-box",
+    "name": "3 1/4 BIRCH HARDWOOD – CARAWAY 20 SF/BOX",
+    "description": "3 1/4 BIRCH HARDWOOD – CARAWAY 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10500,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858975",
+    "sku": "210000019948",
+    "slug": "oak-engineered-hardwood-rocky-coast-18-25-sf-box",
+    "name": "OAK ENGINEERED HARDWOOD – ROCKY COAST 18.25 SF/BOX",
+    "description": "OAK ENGINEERED HARDWOOD – ROCKY COAST 18.25 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 9581,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858976",
+    "sku": "210000019959",
+    "slug": "falcon-floors-hardwood-maple-solid-floorinng-sky-21-7-sf-box",
+    "name": "FALCON FLOORS HARDWOOD MAPLE SOLID FLOORINNG – SKY 21.7 SF/BOX",
+    "description": "FALCON FLOORS HARDWOOD MAPLE SOLID FLOORINNG – SKY 21.7 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 11393,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858977",
+    "sku": "210000019971",
+    "slug": "naf-hardwood-engineered-hickory-grey-stone-19-18-sf-box",
+    "name": "NAF HARDWOOD ENGINEERED HICKORY – GREY STONE 19.18 SF/BOX",
+    "description": "NAF HARDWOOD ENGINEERED HICKORY – GREY STONE 19.18 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10070,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/itlfwo5ek1ox2pdaha4s.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858978",
+    "sku": "210000020089",
+    "slug": "pg-model-oasis-19-sf-box",
+    "name": "PG MODEL OASIS 19 SF/BOX",
+    "description": "PG MODEL OASIS 19 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 12469,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858979",
+    "sku": "210000020344",
+    "slug": "biyork-summer-peach-23-sf-box",
+    "name": "BIYORK SUMMER PEACH 23 SF/BOX",
+    "description": "BIYORK SUMMER PEACH 23 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 12075,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858980",
+    "sku": "210000020347",
+    "slug": "pg-model-meteora-22-sf-box",
+    "name": "PG MODEL METEORA 22 SF/BOX",
+    "description": "PG MODEL METEORA 22 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 11550,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858981",
+    "sku": "210000020390",
+    "slug": "pg-ahtcia-6-1-2-20-sf-box",
+    "name": "PG AHTCIA 6 1/2 20 SF/BOX",
+    "description": "PG AHTCIA 6 1/2 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 13125,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858982",
+    "sku": "210000020406",
+    "slug": "vidar-6-1-2-hardwood-sky-30-93-sf-box",
+    "name": "VIDAR 6 1/2 HARDWOOD SKY 30.93 SF/BOX",
+    "description": "VIDAR 6 1/2 HARDWOOD SKY 30.93 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 16238,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858983",
+    "sku": "210000020459",
+    "slug": "canadian-standard-hardwood-venetian-brown-sb-jutoba-22-75-sf-box",
+    "name": "CANADIAN STANDARD HARDWOOD VENETIAN BROWN S&B – JUTOBA 22.75 SF/BOX",
+    "description": "CANADIAN STANDARD HARDWOOD VENETIAN BROWN S&B – JUTOBA 22.75 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 11944,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858984",
+    "sku": "210000020465",
+    "slug": "biyork-summer-salom-23-sf-box",
+    "name": "BIYORK SUMMER SALOM 23 SF/BOX",
+    "description": "BIYORK SUMMER SALOM 23 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 12075,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858985",
+    "sku": "210000020472",
+    "slug": "pg-flooring-solid-oak-hazelnut-22-sqft-box",
+    "name": "PG FLOORING SOLID OAK – HAZELNUT 22 SQFT/BOX",
+    "description": "PG FLOORING SOLID OAK – HAZELNUT 22 SQFT/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 11550,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858986",
+    "sku": "210000020473",
+    "slug": "pg-flooring-hardwood-hard-maple-momentum-19-sf-box",
+    "name": "PG FLOORING HARDWOOD HARD MAPLE – MOMENTUM 19 SF/BOX",
+    "description": "PG FLOORING HARDWOOD HARD MAPLE – MOMENTUM 19 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 9975,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858987",
+    "sku": "210000020474",
+    "slug": "oak-engineered-hardwood-toffee-crunch-25-25-sf-box",
+    "name": "OAK ENGINEERED HARDWOOD – TOFFEE CRUNCH 25.25 SF/BOX",
+    "description": "OAK ENGINEERED HARDWOOD – TOFFEE CRUNCH 25.25 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 13256,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/lxhx0fi9aco5mkv1fryv.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858988",
+    "sku": "210000009606",
+    "slug": "02828-casing-mdf-primed-1-2-x-3-7-8-x-8ft",
+    "name": "02828 CASING MDF PRIMED 1/2 X 3 7/8 X 8FT",
+    "description": "02828 CASING MDF PRIMED 1/2 X 3 7/8 X 8FT. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 1000,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858989",
+    "sku": "210000009607",
+    "slug": "0q38c-pine-3-4-x-3-1-2-x-8ft",
+    "name": "0Q38C PINE 3/4 X 3 1/2 X 8FT",
+    "description": "0Q38C PINE 3/4 X 3 1/2 X 8FT. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 1000,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858990",
+    "sku": "210000009608",
+    "slug": "12x24-evolution-earth-polished-16-sf-box",
+    "name": "12X24 EVOLUTION EARTH POLISHED 16 SF/BOX",
+    "description": "12X24 EVOLUTION EARTH POLISHED 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 4000,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858991",
+    "sku": "210000009609",
+    "slug": "12x24-la-marca-onyx-nuvolato-polished-16-sf-box",
+    "name": "12X24 LA MARCA ONYX NUVOLATO POLISHED 16 SF/BOX",
+    "description": "12X24 LA MARCA ONYX NUVOLATO POLISHED 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 5000,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858992",
+    "sku": "210000009610",
+    "slug": "12x24-notion-mist-polished-16-sf-box",
+    "name": "12X24 NOTION MIST POLISHED 16 SF/BOX",
+    "description": "12X24 NOTION MIST POLISHED 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 4000,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858993",
+    "sku": "210000009611",
+    "slug": "12x24-sand-clay-16-sf-box",
+    "name": "12X24 SAND CLAY 16 SF/BOX",
+    "description": "12X24 SAND CLAY 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 4000,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858994",
+    "sku": "210000009612",
+    "slug": "12x24-statuario-matte-16-sf-box",
+    "name": "12X24 STATUARIO MATTE 16 SF/BOX",
+    "description": "12X24 STATUARIO MATTE 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 4000,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858995",
+    "sku": "210000009613",
+    "slug": "12x24-statuario-polished-16-sf-box",
+    "name": "12X24 STATUARIO POLISHED 16 SF/BOX",
+    "description": "12X24 STATUARIO POLISHED 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 4000,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858996",
+    "sku": "210000009614",
+    "slug": "12x24-venato-polished-16-sf-box",
+    "name": "12X24 VENATO POLISHED 16 SF/BOX",
+    "description": "12X24 VENATO POLISHED 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 4000,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858997",
+    "sku": "210000009615",
+    "slug": "deerwood-flooring-oak-solid-hand-scrapped-distressed-walnut-5-x-3-4-in-23-sf-box",
+    "name": "DEERWOOD FLOORING OAK SOLID HAND SCRAPPED & DISTRESSED WALNUT 5 X 3/4 IN – 23 SF/BOX",
+    "description": "DEERWOOD FLOORING OAK SOLID HAND SCRAPPED & DISTRESSED WALNUT 5 X 3/4 IN – 23 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 14346,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858998",
+    "sku": "210000009616",
+    "slug": "eco-carbon-foam-4-x-8-x-2in-eco-40-3453",
+    "name": "ECO CARBON FOAM 4′ X 8′ X 2IN ECO-40 3453",
+    "description": "ECO CARBON FOAM 4′ X 8′ X 2IN ECO-40 3453. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 7500,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-858999",
+    "sku": "210000009617",
+    "slug": "engineered-hardwood-flooring-american-oak-daybreak-ab-6-x-3-4-in-20-69-sf-box",
+    "name": "ENGINEERED HARDWOOD FLOORING AMERICAN OAK DAYBREAK-AB 6 X 3/4 IN – 20.69 SF/BOX",
+    "description": "ENGINEERED HARDWOOD FLOORING AMERICAN OAK DAYBREAK-AB 6 X 3/4 IN – 20.69 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 12931,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859000",
+    "sku": "210000009618",
+    "slug": "falcon-floor-oak-engineered-flooring-wire-brushed-virtuous-6-x-3-4-in-20-7-sf-bo",
+    "name": "FALCON FLOOR OAK ENGINEERED FLOORING WIRE BRUSHED – VIRTUOUS 6 X 3/4 IN – 20.7 SF/BOX",
+    "description": "FALCON FLOOR OAK ENGINEERED FLOORING WIRE BRUSHED – VIRTUOUS 6 X 3/4 IN – 20.7 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 7763,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859001",
+    "sku": "210000009619",
+    "slug": "l3513-mdf-primed-5-8-x-2-3-4-x-7ft",
+    "name": "L3513 MDF PRIMED 5/8 X 2 3/4 X 7FT",
+    "description": "L3513 MDF PRIMED 5/8 X 2 3/4 X 7FT. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 875,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859002",
+    "sku": "210000009620",
+    "slug": "manhattan-split-face-15-x-61-6-sf-pc",
+    "name": "MANHATTAN SPLIT FACE 15 X 61 – 6 SF/PC",
+    "description": "MANHATTAN SPLIT FACE 15 X 61 – 6 SF/PC. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 6000,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859003",
+    "sku": "210000009621",
+    "slug": "maple-graphite-parque-5-16-x-14x-14-40-sf-box",
+    "name": "MAPLE GRAPHITE PARQUE 5/16 X 14X 14 – 40 SF/BOX",
+    "description": "MAPLE GRAPHITE PARQUE 5/16 X 14X 14 – 40 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 14950,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859004",
+    "sku": "210000009622",
+    "slug": "maple-solid-flooring-handscraped-distressed-4-3-4-x-3-4-in-cinnamon-21-7-sf-box",
+    "name": "MAPLE SOLID FLOORING HANDSCRAPED & DISTRESSED 4-3/4 X 3/4 IN CINNAMON – 21.7 SF/BOX",
+    "description": "MAPLE SOLID FLOORING HANDSCRAPED & DISTRESSED 4-3/4 X 3/4 IN CINNAMON – 21.7 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 13535,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859005",
+    "sku": "210000009623",
+    "slug": "naf-engineered-oak-wirebrushed-18mm-x-165mm-x-1800-galaxy-19-18-sf-box",
+    "name": "NAF ENGINEERED OAK WIREBRUSHED 18mm x 165mm x 1800 GALAXY – 19.18 SF/BOX",
+    "description": "NAF ENGINEERED OAK WIREBRUSHED 18mm x 165mm x 1800 GALAXY – 19.18 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 9566,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/krsqvsooemroljyc2vka.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859006",
+    "sku": "210000009624",
+    "slug": "northern-retreat-engineered-hardwood-7-1-2-x-5-8-cavern-23-32-sf-box",
+    "name": "NORTHERN RETREAT ENGINEERED HARDWOOD 7-1/2 X 5/8 CAVERN – 23.32 SF/BOX",
+    "description": "NORTHERN RETREAT ENGINEERED HARDWOOD 7-1/2 X 5/8 CAVERN – 23.32 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 14546,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859007",
+    "sku": "210000009625",
+    "slug": "purelux-lvt-flooring-freesia-42-sf-box",
+    "name": "PURELUX LVT FLOORING FREESIA – 42 SF/BOX",
+    "description": "PURELUX LVT FLOORING FREESIA – 42 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 7875,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859008",
+    "sku": "210000009626",
+    "slug": "red-oak-solid-flooring-4-1-4-x-3-4-in-truffle-19-55-sf-box",
+    "name": "RED OAK SOLID FLOORING 4-1/4 X 3/4 IN TRUFFLE – 19.55 SF/BOX",
+    "description": "RED OAK SOLID FLOORING 4-1/4 X 3/4 IN TRUFFLE – 19.55 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 12194,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859009",
+    "sku": "210000009627",
+    "slug": "select-better-3-1-4-in-jatoba-venetian-brown-22-75-sf-box",
+    "name": "SELECT & BETTER 3 1/4 IN JATOBA VENETIAN BROWN – 22.75 SF/BOX",
+    "description": "SELECT & BETTER 3 1/4 IN JATOBA VENETIAN BROWN – 22.75 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 17063,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859010",
+    "sku": "210000009628",
+    "slug": "select-better-3-1-4-in-beech-thunder-21-sf-box",
+    "name": "SELECT & BETTER 3 1/4 IN BEECH THUNDER – 21 SF/BOX",
+    "description": "SELECT & BETTER 3 1/4 IN BEECH THUNDER – 21 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10474,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859011",
+    "sku": "210000009629",
+    "slug": "select-better-3-1-4-in-jatoba-orinoco-22-75-sf-box",
+    "name": "SELECT & BETTER 3 1/4 IN JATOBA ORINOCO – 22.75 SF/BOX",
+    "description": "SELECT & BETTER 3 1/4 IN JATOBA ORINOCO – 22.75 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 17063,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859012",
+    "sku": "210000009630",
+    "slug": "select-3-1-4-maple-uptown-22-5-sf-box",
+    "name": "SELECT 3 1/4 MAPLE UPTOWN – 22.5 SF/BOX",
+    "description": "SELECT 3 1/4 MAPLE UPTOWN – 22.5 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 14034,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859013",
+    "sku": "210000009631",
+    "slug": "sherwood-matrix-solid-flooring-espresso-select-better-23-63-sf-box",
+    "name": "SHERWOOD MATRIX SOLID FLOORING ESPRESSO SELECT & BETTER – 23.63 SF/BOX",
+    "description": "SHERWOOD MATRIX SOLID FLOORING ESPRESSO SELECT & BETTER – 23.63 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 14739,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859014",
+    "sku": "210000009632",
+    "slug": "solid-oak-flooring-handscrapped-distressed-eternal-5-x-3-4-in-23-sf-box",
+    "name": "SOLID OAK FLOORING HANDSCRAPPED & DISTRESSED ETERNAL 5 X 3/4 IN – 23 SF/BOX",
+    "description": "SOLID OAK FLOORING HANDSCRAPPED & DISTRESSED ETERNAL 5 X 3/4 IN – 23 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 11471,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859015",
+    "sku": "210000009633",
+    "slug": "stone-ledger-z-shape-amazone-15-x-61-6-sf-pc",
+    "name": "STONE LEDGER Z SHAPE AMAZONE 15 X 61 – 6 SF/PC",
+    "description": "STONE LEDGER Z SHAPE AMAZONE 15 X 61 – 6 SF/PC. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 6000,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859016",
+    "sku": "210000009634",
+    "slug": "stone-ledger-z-shape-toronto-15-x-55cm-6-sf-pc",
+    "name": "STONE LEDGER Z SHAPE ‘TORONTO’ 15 X 55CM – 6 SF/PC",
+    "description": "STONE LEDGER Z SHAPE ‘TORONTO’ 15 X 55CM – 6 SF/PC. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 6000,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859017",
+    "sku": "210000009635",
+    "slug": "laminate-rosewood-18-94-sf-box",
+    "name": "LAMINATE ROSEWOOD – 18.94 SF/BOX",
+    "description": "LAMINATE ROSEWOOD – 18.94 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 2486,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859018",
+    "sku": "210000009636",
+    "slug": "pg-model-4-1-4-silver-maple-cocoa-19-sf-box",
+    "name": "PG MODEL 4 1/4 SILVER MAPLE – COCOA 19 SF/BOX",
+    "description": "PG MODEL 4 1/4 SILVER MAPLE – COCOA 19 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 9975,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/c6fqdvypnitn0glgw9zu.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859019",
+    "sku": "210000009638",
+    "slug": "pg-model-3-1-4-silver-maple-victorian-20-sf-box",
+    "name": "PG MODEL 3 1/4 SILVER MAPLE – VICTORIAN 20 SF/BOX",
+    "description": "PG MODEL 3 1/4 SILVER MAPLE – VICTORIAN 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10500,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859020",
+    "sku": "210000009639",
+    "slug": "pg-model-3-1-4-silver-maple-cocoa-20-sf-box",
+    "name": "PG MODEL 3 1/4 SILVER MAPLE – COCOA 20 SF/BOX",
+    "description": "PG MODEL 3 1/4 SILVER MAPLE – COCOA 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10500,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859021",
+    "sku": "210000009640",
+    "slug": "providence-ash-hardwood-flooring-20-sf-box",
+    "name": "PROVIDENCE ASH HARDWOOD FLOORING 20 SF/BOX",
+    "description": "PROVIDENCE ASH HARDWOOD FLOORING 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10500,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859022",
+    "sku": "210000009641",
+    "slug": "pg-model-maple-hardwood-ancestral-20-sf-box",
+    "name": "PG MODEL MAPLE HARDWOOD ANCESTRAL 20 SF/BOX",
+    "description": "PG MODEL MAPLE HARDWOOD ANCESTRAL 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 12403,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859023",
+    "sku": "210000009642",
+    "slug": "lauzon-3-1-4-maple-hardwood-natural-20-sf-box",
+    "name": "LAUZON 3 1/4 MAPLE HARDWOOD – NATURAL 20 SF/BOX",
+    "description": "LAUZON 3 1/4 MAPLE HARDWOOD – NATURAL 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 11813,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/zha877tmzxzb0wfjho2u.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859024",
+    "sku": "210000009643",
+    "slug": "essential-red-oak-4-1-4-hardwood-flooring-17-sf-box",
+    "name": "ESSENTIAL RED OAK 4 1/4 HARDWOOD FLOORING 17 SF/BOX",
+    "description": "ESSENTIAL RED OAK 4 1/4 HARDWOOD FLOORING 17 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10041,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859025",
+    "sku": "210000009645",
+    "slug": "hardwood-flooring-ash-satin-20-sf-box",
+    "name": "HARDWOOD FLOORING – ASH SATIN 20 SF/BOX",
+    "description": "HARDWOOD FLOORING – ASH SATIN 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10500,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859026",
+    "sku": "210000009646",
+    "slug": "mercier-birch-3-1-4-hardwood-antique-satin-20-sf-box",
+    "name": "MERCIER BIRCH 3 1/4 HARDWOOD – ANTIQUE SATIN 20 SF/BOX",
+    "description": "MERCIER BIRCH 3 1/4 HARDWOOD – ANTIQUE SATIN 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10500,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859027",
+    "sku": "210000009653",
+    "slug": "pg-model-5-1-4-silver-maple-mardoch-20-sf-box",
+    "name": "PG MODEL 5 1/4 SILVER MAPLE MARDOCH 20 SF/BOX",
+    "description": "PG MODEL 5 1/4 SILVER MAPLE MARDOCH 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10500,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2022/05/ha1zjnjccnvgsstwbps5.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859028",
+    "sku": "210000009655",
+    "slug": "sherwood-hardwood-flooring-sb-beech-3-1-4-20-25-sf-box",
+    "name": "SHERWOOD HARDWOOD FLOORING S&B – BEECH 3 1/4 20.25 SF/BOX",
+    "description": "SHERWOOD HARDWOOD FLOORING S&B – BEECH 3 1/4 20.25 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10631,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859029",
+    "sku": "210000009656",
+    "slug": "3-1-4-beech-hardwood-hazel-20-25-sf-box",
+    "name": "3 1/4 BEECH HARDWOOD HAZEL 20.25 SF/BOX",
+    "description": "3 1/4 BEECH HARDWOOD HAZEL 20.25 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10631,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859030",
+    "sku": "210000009657",
+    "slug": "hardwood-flooring-silver-stone-20-3-sf-box",
+    "name": "HARDWOOD FLOORING – SILVER STONE 20.3 SF/BOX",
+    "description": "HARDWOOD FLOORING – SILVER STONE 20.3 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10658,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859031",
+    "sku": "210000009661",
+    "slug": "black-walnut-engineered-3-1-4-hardwood-natural-20-35-sf-box",
+    "name": "BLACK WALNUT ENGINEERED 3 1/4 HARDWOOD – NATURAL 20.35 SF/BOX",
+    "description": "BLACK WALNUT ENGINEERED 3 1/4 HARDWOOD – NATURAL 20.35 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 9348,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859032",
+    "sku": "210000009669",
+    "slug": "sherwood-laminate-dura-tile-horizon-20-83-sf-box",
+    "name": "SHERWOOD LAMINATE – DURA TILE HORIZON 20.83 SF/BOX",
+    "description": "SHERWOOD LAMINATE – DURA TILE HORIZON 20.83 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 2734,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859033",
+    "sku": "210000009673",
+    "slug": "sherwood-laminate-dura-tile-6020-horizon-20-83-sf-box",
+    "name": "SHERWOOD LAMINATE – DURA TILE (6020) HORIZON 20.83 SF/BOX",
+    "description": "SHERWOOD LAMINATE – DURA TILE (6020) HORIZON 20.83 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 2734,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/aqanmfuaxuy7velsn2t6.png",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859034",
+    "sku": "210000009674",
+    "slug": "3-1-4-beech-hardwood-thunder-21-sf-box",
+    "name": "3 1/4 BEECH HARDWOOD THUNDER 21 SF/BOX",
+    "description": "3 1/4 BEECH HARDWOOD THUNDER 21 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 11025,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859035",
+    "sku": "210000009675",
+    "slug": "3-1-4-beech-hardwood-hazel-21-15-sf-box",
+    "name": "3 1/4 BEECH HARDWOOD HAZEL 21.15 SF/BOX",
+    "description": "3 1/4 BEECH HARDWOOD HAZEL 21.15 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 11104,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859036",
+    "sku": "210000009676",
+    "slug": "6-wire-brush-engineered-hardwood-smoke-grey-21-5-sf-box",
+    "name": "6″ WIRE BRUSH ENGINEERED HARDWOOD SMOKE GREY 21.5 SF/BOX",
+    "description": "6″ WIRE BRUSH ENGINEERED HARDWOOD SMOKE GREY 21.5 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 11288,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859037",
+    "sku": "210000009679",
+    "slug": "falcon-floors-kensington-hardwood-solid-floooring-maple-21-7-sf-box",
+    "name": "FALCON FLOORS KENSINGTON HARDWOOD SOLID FLOOORING – MAPLE 21.7 SF/BOX",
+    "description": "FALCON FLOORS KENSINGTON HARDWOOD SOLID FLOOORING – MAPLE 21.7 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 11393,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859038",
+    "sku": "210000009680",
+    "slug": "white-box-sherwood-5-maple-hardwood-clove-22-5-sf-box",
+    "name": "WHITE BOX SHERWOOD 5″ MAPLE HARDWOOD – CLOVE 22.5 SF/BOX",
+    "description": "WHITE BOX SHERWOOD 5″ MAPLE HARDWOOD – CLOVE 22.5 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 11813,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859039",
+    "sku": "210000009681",
+    "slug": "sherwood-summit-hardwood-truffle-22-75-sf-box",
+    "name": "SHERWOOD SUMMIT HARDWOOD TRUFFLE 22.75 SF/BOX",
+    "description": "SHERWOOD SUMMIT HARDWOOD TRUFFLE 22.75 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 11944,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859040",
+    "sku": "210000009682",
+    "slug": "3-1-4-maple-hardwood-natural-23-3-sf-box",
+    "name": "3 1/4 MAPLE HARDWOOD NATURAL 23.3 SF/BOX",
+    "description": "3 1/4 MAPLE HARDWOOD NATURAL 23.3 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 12233,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859041",
+    "sku": "210000009683",
+    "slug": "manhattan-solid-hardwood-buroque-oak-24-22-sf-box",
+    "name": "MANHATTAN SOLID HARDWOOD BUROQUE OAK 24.22 SF/BOX",
+    "description": "MANHATTAN SOLID HARDWOOD BUROQUE OAK 24.22 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 12716,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859042",
+    "sku": "210000009685",
+    "slug": "8mm-continental-laminate-26-16-sf-box",
+    "name": "8MM CONTINENTAL LAMINATE 26.16 SF/BOX",
+    "description": "8MM CONTINENTAL LAMINATE 26.16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 13734,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859043",
+    "sku": "210000009686",
+    "slug": "bsl-pacific-4-1-4-hardwood-natural-18-9-sf-box",
+    "name": "BSL PACIFIC 4 1/4 HARDWOOD NATURAL 18.9 SF/BOX",
+    "description": "BSL PACIFIC 4 1/4 HARDWOOD NATURAL 18.9 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 9923,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859044",
+    "sku": "210000009687",
+    "slug": "bsl-colonial-satin-hardwood-natural-20-sf-box",
+    "name": "BSL COLONIAL SATIN HARDWOOD NATURAL 20 SF/BOX",
+    "description": "BSL COLONIAL SATIN HARDWOOD NATURAL 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10500,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859045",
+    "sku": "210000009688",
+    "slug": "bsl-3-1-4-hardwood-natural-20-sf-box",
+    "name": "BSL 3 1/4 HARDWOOD NATURAL 20 SF/BOX",
+    "description": "BSL 3 1/4 HARDWOOD NATURAL 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10500,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859046",
+    "sku": "210000009689",
+    "slug": "pg-model-5-1-4-pacific-gloss-hardwood-versailes-22-sf-box",
+    "name": "PG MODEL 5 1/4 PACIFIC GLOSS HARDWOOD – VERSAILES 22 SF/BOX",
+    "description": "PG MODEL 5 1/4 PACIFIC GLOSS HARDWOOD – VERSAILES 22 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 13125,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859047",
+    "sku": "210000009690",
+    "slug": "pg-model-3-1-4-semi-gloss-hardwood-yukon-20-sf-box",
+    "name": "PG MODEL 3 1/4 SEMI GLOSS HARDWOOD – YUKON 20 SF/BOX",
+    "description": "PG MODEL 3 1/4 SEMI GLOSS HARDWOOD – YUKON 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 13125,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859048",
+    "sku": "210000009691",
+    "slug": "vidar-white-oak-hardwood-day-break-24-18-sf-box",
+    "name": "VIDAR WHITE OAK HARDWOOD – DAY BREAK 24.18 SF/BOX",
+    "description": "VIDAR WHITE OAK HARDWOOD – DAY BREAK 24.18 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 12695,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859049",
+    "sku": "210000009692",
+    "slug": "biyork-vinyl-click-almond-paste-23-25-sf-box",
+    "name": "BIYORK VINYL CLICK ALMOND PASTE 23.25 SF/BOX",
+    "description": "BIYORK VINYL CLICK ALMOND PASTE 23.25 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 6103,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859050",
+    "sku": "210000009693",
+    "slug": "pg-model-7-birch-hardwood-familia-16-sf-box",
+    "name": "PG MODEL 7″ BIRCH HARDWOOD – FAMILIA 16 SF/BOX",
+    "description": "PG MODEL 7″ BIRCH HARDWOOD – FAMILIA 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 10500,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
+    "id": "fr-859051",
+    "sku": "210000009694",
+    "slug": "biyork-hardwood-breath-of-winter-23-11-sf-box",
+    "name": "BIYORK HARDWOOD BREATH OF WINTER 23.11 SF/BOX",
+    "description": "BIYORK HARDWOOD BREATH OF WINTER 23.11 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
+    "categoryId": "cat-building-materials",
+    "priceCents": 12133,
+    "inStock": false,
+    "stockQty": 0,
+    "unit": "each",
+    "brand": "FlooReno",
+    "specs": [
+      {
+        "label": "Supplier",
+        "value": "FlooReno"
+      }
+    ],
+    "imageEmoji": "📦",
+    "featured": false,
+    "supplierId": "flooreno",
+    "sellerName": "FlooReno",
+    "relatedIds": [
+      "fr-856314",
+      "fr-856313",
+      "fr-856312",
+      "fr-856306"
+    ]
+  },
+  {
     "id": "fr-859052",
     "sku": "210000009695",
     "slug": "falcon-floors-vinyl-click-7-mm-dusk-18-9-sf-box",
@@ -589535,2971 +592500,6 @@
     ],
     "imageEmoji": "📦",
     "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/l8lwaavbzfuhv0kibel3.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859051",
-    "sku": "210000009694",
-    "slug": "biyork-hardwood-breath-of-winter-23-11-sf-box",
-    "name": "BIYORK HARDWOOD BREATH OF WINTER 23.11 SF/BOX",
-    "description": "BIYORK HARDWOOD BREATH OF WINTER 23.11 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 12133,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859050",
-    "sku": "210000009693",
-    "slug": "pg-model-7-birch-hardwood-familia-16-sf-box",
-    "name": "PG MODEL 7″ BIRCH HARDWOOD – FAMILIA 16 SF/BOX",
-    "description": "PG MODEL 7″ BIRCH HARDWOOD – FAMILIA 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10500,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859049",
-    "sku": "210000009692",
-    "slug": "biyork-vinyl-click-almond-paste-23-25-sf-box",
-    "name": "BIYORK VINYL CLICK ALMOND PASTE 23.25 SF/BOX",
-    "description": "BIYORK VINYL CLICK ALMOND PASTE 23.25 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 6103,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859048",
-    "sku": "210000009691",
-    "slug": "vidar-white-oak-hardwood-day-break-24-18-sf-box",
-    "name": "VIDAR WHITE OAK HARDWOOD – DAY BREAK 24.18 SF/BOX",
-    "description": "VIDAR WHITE OAK HARDWOOD – DAY BREAK 24.18 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 12695,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859047",
-    "sku": "210000009690",
-    "slug": "pg-model-3-1-4-semi-gloss-hardwood-yukon-20-sf-box",
-    "name": "PG MODEL 3 1/4 SEMI GLOSS HARDWOOD – YUKON 20 SF/BOX",
-    "description": "PG MODEL 3 1/4 SEMI GLOSS HARDWOOD – YUKON 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 13125,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859046",
-    "sku": "210000009689",
-    "slug": "pg-model-5-1-4-pacific-gloss-hardwood-versailes-22-sf-box",
-    "name": "PG MODEL 5 1/4 PACIFIC GLOSS HARDWOOD – VERSAILES 22 SF/BOX",
-    "description": "PG MODEL 5 1/4 PACIFIC GLOSS HARDWOOD – VERSAILES 22 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 13125,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859045",
-    "sku": "210000009688",
-    "slug": "bsl-3-1-4-hardwood-natural-20-sf-box",
-    "name": "BSL 3 1/4 HARDWOOD NATURAL 20 SF/BOX",
-    "description": "BSL 3 1/4 HARDWOOD NATURAL 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10500,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859044",
-    "sku": "210000009687",
-    "slug": "bsl-colonial-satin-hardwood-natural-20-sf-box",
-    "name": "BSL COLONIAL SATIN HARDWOOD NATURAL 20 SF/BOX",
-    "description": "BSL COLONIAL SATIN HARDWOOD NATURAL 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10500,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859043",
-    "sku": "210000009686",
-    "slug": "bsl-pacific-4-1-4-hardwood-natural-18-9-sf-box",
-    "name": "BSL PACIFIC 4 1/4 HARDWOOD NATURAL 18.9 SF/BOX",
-    "description": "BSL PACIFIC 4 1/4 HARDWOOD NATURAL 18.9 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 9923,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859042",
-    "sku": "210000009685",
-    "slug": "8mm-continental-laminate-26-16-sf-box",
-    "name": "8MM CONTINENTAL LAMINATE 26.16 SF/BOX",
-    "description": "8MM CONTINENTAL LAMINATE 26.16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 13734,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859041",
-    "sku": "210000009683",
-    "slug": "manhattan-solid-hardwood-buroque-oak-24-22-sf-box",
-    "name": "MANHATTAN SOLID HARDWOOD BUROQUE OAK 24.22 SF/BOX",
-    "description": "MANHATTAN SOLID HARDWOOD BUROQUE OAK 24.22 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 12716,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859040",
-    "sku": "210000009682",
-    "slug": "3-1-4-maple-hardwood-natural-23-3-sf-box",
-    "name": "3 1/4 MAPLE HARDWOOD NATURAL 23.3 SF/BOX",
-    "description": "3 1/4 MAPLE HARDWOOD NATURAL 23.3 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 12233,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859039",
-    "sku": "210000009681",
-    "slug": "sherwood-summit-hardwood-truffle-22-75-sf-box",
-    "name": "SHERWOOD SUMMIT HARDWOOD TRUFFLE 22.75 SF/BOX",
-    "description": "SHERWOOD SUMMIT HARDWOOD TRUFFLE 22.75 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 11944,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859038",
-    "sku": "210000009680",
-    "slug": "white-box-sherwood-5-maple-hardwood-clove-22-5-sf-box",
-    "name": "WHITE BOX SHERWOOD 5″ MAPLE HARDWOOD – CLOVE 22.5 SF/BOX",
-    "description": "WHITE BOX SHERWOOD 5″ MAPLE HARDWOOD – CLOVE 22.5 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 11813,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859037",
-    "sku": "210000009679",
-    "slug": "falcon-floors-kensington-hardwood-solid-floooring-maple-21-7-sf-box",
-    "name": "FALCON FLOORS KENSINGTON HARDWOOD SOLID FLOOORING – MAPLE 21.7 SF/BOX",
-    "description": "FALCON FLOORS KENSINGTON HARDWOOD SOLID FLOOORING – MAPLE 21.7 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 11393,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859036",
-    "sku": "210000009676",
-    "slug": "6-wire-brush-engineered-hardwood-smoke-grey-21-5-sf-box",
-    "name": "6″ WIRE BRUSH ENGINEERED HARDWOOD SMOKE GREY 21.5 SF/BOX",
-    "description": "6″ WIRE BRUSH ENGINEERED HARDWOOD SMOKE GREY 21.5 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 11288,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859035",
-    "sku": "210000009675",
-    "slug": "3-1-4-beech-hardwood-hazel-21-15-sf-box",
-    "name": "3 1/4 BEECH HARDWOOD HAZEL 21.15 SF/BOX",
-    "description": "3 1/4 BEECH HARDWOOD HAZEL 21.15 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 11104,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859034",
-    "sku": "210000009674",
-    "slug": "3-1-4-beech-hardwood-thunder-21-sf-box",
-    "name": "3 1/4 BEECH HARDWOOD THUNDER 21 SF/BOX",
-    "description": "3 1/4 BEECH HARDWOOD THUNDER 21 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 11025,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859033",
-    "sku": "210000009673",
-    "slug": "sherwood-laminate-dura-tile-6020-horizon-20-83-sf-box",
-    "name": "SHERWOOD LAMINATE – DURA TILE (6020) HORIZON 20.83 SF/BOX",
-    "description": "SHERWOOD LAMINATE – DURA TILE (6020) HORIZON 20.83 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 2734,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/aqanmfuaxuy7velsn2t6.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859032",
-    "sku": "210000009669",
-    "slug": "sherwood-laminate-dura-tile-horizon-20-83-sf-box",
-    "name": "SHERWOOD LAMINATE – DURA TILE HORIZON 20.83 SF/BOX",
-    "description": "SHERWOOD LAMINATE – DURA TILE HORIZON 20.83 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 2734,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859031",
-    "sku": "210000009661",
-    "slug": "black-walnut-engineered-3-1-4-hardwood-natural-20-35-sf-box",
-    "name": "BLACK WALNUT ENGINEERED 3 1/4 HARDWOOD – NATURAL 20.35 SF/BOX",
-    "description": "BLACK WALNUT ENGINEERED 3 1/4 HARDWOOD – NATURAL 20.35 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 9348,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859030",
-    "sku": "210000009657",
-    "slug": "hardwood-flooring-silver-stone-20-3-sf-box",
-    "name": "HARDWOOD FLOORING – SILVER STONE 20.3 SF/BOX",
-    "description": "HARDWOOD FLOORING – SILVER STONE 20.3 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10658,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859029",
-    "sku": "210000009656",
-    "slug": "3-1-4-beech-hardwood-hazel-20-25-sf-box",
-    "name": "3 1/4 BEECH HARDWOOD HAZEL 20.25 SF/BOX",
-    "description": "3 1/4 BEECH HARDWOOD HAZEL 20.25 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10631,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859028",
-    "sku": "210000009655",
-    "slug": "sherwood-hardwood-flooring-sb-beech-3-1-4-20-25-sf-box",
-    "name": "SHERWOOD HARDWOOD FLOORING S&B – BEECH 3 1/4 20.25 SF/BOX",
-    "description": "SHERWOOD HARDWOOD FLOORING S&B – BEECH 3 1/4 20.25 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10631,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859027",
-    "sku": "210000009653",
-    "slug": "pg-model-5-1-4-silver-maple-mardoch-20-sf-box",
-    "name": "PG MODEL 5 1/4 SILVER MAPLE MARDOCH 20 SF/BOX",
-    "description": "PG MODEL 5 1/4 SILVER MAPLE MARDOCH 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10500,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2022/05/ha1zjnjccnvgsstwbps5.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859026",
-    "sku": "210000009646",
-    "slug": "mercier-birch-3-1-4-hardwood-antique-satin-20-sf-box",
-    "name": "MERCIER BIRCH 3 1/4 HARDWOOD – ANTIQUE SATIN 20 SF/BOX",
-    "description": "MERCIER BIRCH 3 1/4 HARDWOOD – ANTIQUE SATIN 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10500,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859025",
-    "sku": "210000009645",
-    "slug": "hardwood-flooring-ash-satin-20-sf-box",
-    "name": "HARDWOOD FLOORING – ASH SATIN 20 SF/BOX",
-    "description": "HARDWOOD FLOORING – ASH SATIN 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10500,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859024",
-    "sku": "210000009643",
-    "slug": "essential-red-oak-4-1-4-hardwood-flooring-17-sf-box",
-    "name": "ESSENTIAL RED OAK 4 1/4 HARDWOOD FLOORING 17 SF/BOX",
-    "description": "ESSENTIAL RED OAK 4 1/4 HARDWOOD FLOORING 17 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10041,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859023",
-    "sku": "210000009642",
-    "slug": "lauzon-3-1-4-maple-hardwood-natural-20-sf-box",
-    "name": "LAUZON 3 1/4 MAPLE HARDWOOD – NATURAL 20 SF/BOX",
-    "description": "LAUZON 3 1/4 MAPLE HARDWOOD – NATURAL 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 11813,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/zha877tmzxzb0wfjho2u.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859022",
-    "sku": "210000009641",
-    "slug": "pg-model-maple-hardwood-ancestral-20-sf-box",
-    "name": "PG MODEL MAPLE HARDWOOD ANCESTRAL 20 SF/BOX",
-    "description": "PG MODEL MAPLE HARDWOOD ANCESTRAL 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 12403,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859021",
-    "sku": "210000009640",
-    "slug": "providence-ash-hardwood-flooring-20-sf-box",
-    "name": "PROVIDENCE ASH HARDWOOD FLOORING 20 SF/BOX",
-    "description": "PROVIDENCE ASH HARDWOOD FLOORING 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10500,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859020",
-    "sku": "210000009639",
-    "slug": "pg-model-3-1-4-silver-maple-cocoa-20-sf-box",
-    "name": "PG MODEL 3 1/4 SILVER MAPLE – COCOA 20 SF/BOX",
-    "description": "PG MODEL 3 1/4 SILVER MAPLE – COCOA 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10500,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859019",
-    "sku": "210000009638",
-    "slug": "pg-model-3-1-4-silver-maple-victorian-20-sf-box",
-    "name": "PG MODEL 3 1/4 SILVER MAPLE – VICTORIAN 20 SF/BOX",
-    "description": "PG MODEL 3 1/4 SILVER MAPLE – VICTORIAN 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10500,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859018",
-    "sku": "210000009636",
-    "slug": "pg-model-4-1-4-silver-maple-cocoa-19-sf-box",
-    "name": "PG MODEL 4 1/4 SILVER MAPLE – COCOA 19 SF/BOX",
-    "description": "PG MODEL 4 1/4 SILVER MAPLE – COCOA 19 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 9975,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/c6fqdvypnitn0glgw9zu.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859017",
-    "sku": "210000009635",
-    "slug": "laminate-rosewood-18-94-sf-box",
-    "name": "LAMINATE ROSEWOOD – 18.94 SF/BOX",
-    "description": "LAMINATE ROSEWOOD – 18.94 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 2486,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859016",
-    "sku": "210000009634",
-    "slug": "stone-ledger-z-shape-toronto-15-x-55cm-6-sf-pc",
-    "name": "STONE LEDGER Z SHAPE ‘TORONTO’ 15 X 55CM – 6 SF/PC",
-    "description": "STONE LEDGER Z SHAPE ‘TORONTO’ 15 X 55CM – 6 SF/PC. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 6000,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859015",
-    "sku": "210000009633",
-    "slug": "stone-ledger-z-shape-amazone-15-x-61-6-sf-pc",
-    "name": "STONE LEDGER Z SHAPE AMAZONE 15 X 61 – 6 SF/PC",
-    "description": "STONE LEDGER Z SHAPE AMAZONE 15 X 61 – 6 SF/PC. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 6000,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859014",
-    "sku": "210000009632",
-    "slug": "solid-oak-flooring-handscrapped-distressed-eternal-5-x-3-4-in-23-sf-box",
-    "name": "SOLID OAK FLOORING HANDSCRAPPED & DISTRESSED ETERNAL 5 X 3/4 IN – 23 SF/BOX",
-    "description": "SOLID OAK FLOORING HANDSCRAPPED & DISTRESSED ETERNAL 5 X 3/4 IN – 23 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 11471,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859013",
-    "sku": "210000009631",
-    "slug": "sherwood-matrix-solid-flooring-espresso-select-better-23-63-sf-box",
-    "name": "SHERWOOD MATRIX SOLID FLOORING ESPRESSO SELECT & BETTER – 23.63 SF/BOX",
-    "description": "SHERWOOD MATRIX SOLID FLOORING ESPRESSO SELECT & BETTER – 23.63 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 14739,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859012",
-    "sku": "210000009630",
-    "slug": "select-3-1-4-maple-uptown-22-5-sf-box",
-    "name": "SELECT 3 1/4 MAPLE UPTOWN – 22.5 SF/BOX",
-    "description": "SELECT 3 1/4 MAPLE UPTOWN – 22.5 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 14034,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859011",
-    "sku": "210000009629",
-    "slug": "select-better-3-1-4-in-jatoba-orinoco-22-75-sf-box",
-    "name": "SELECT & BETTER 3 1/4 IN JATOBA ORINOCO – 22.75 SF/BOX",
-    "description": "SELECT & BETTER 3 1/4 IN JATOBA ORINOCO – 22.75 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 17063,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859010",
-    "sku": "210000009628",
-    "slug": "select-better-3-1-4-in-beech-thunder-21-sf-box",
-    "name": "SELECT & BETTER 3 1/4 IN BEECH THUNDER – 21 SF/BOX",
-    "description": "SELECT & BETTER 3 1/4 IN BEECH THUNDER – 21 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10474,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859009",
-    "sku": "210000009627",
-    "slug": "select-better-3-1-4-in-jatoba-venetian-brown-22-75-sf-box",
-    "name": "SELECT & BETTER 3 1/4 IN JATOBA VENETIAN BROWN – 22.75 SF/BOX",
-    "description": "SELECT & BETTER 3 1/4 IN JATOBA VENETIAN BROWN – 22.75 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 17063,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859008",
-    "sku": "210000009626",
-    "slug": "red-oak-solid-flooring-4-1-4-x-3-4-in-truffle-19-55-sf-box",
-    "name": "RED OAK SOLID FLOORING 4-1/4 X 3/4 IN TRUFFLE – 19.55 SF/BOX",
-    "description": "RED OAK SOLID FLOORING 4-1/4 X 3/4 IN TRUFFLE – 19.55 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 12194,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859007",
-    "sku": "210000009625",
-    "slug": "purelux-lvt-flooring-freesia-42-sf-box",
-    "name": "PURELUX LVT FLOORING FREESIA – 42 SF/BOX",
-    "description": "PURELUX LVT FLOORING FREESIA – 42 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 7875,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859006",
-    "sku": "210000009624",
-    "slug": "northern-retreat-engineered-hardwood-7-1-2-x-5-8-cavern-23-32-sf-box",
-    "name": "NORTHERN RETREAT ENGINEERED HARDWOOD 7-1/2 X 5/8 CAVERN – 23.32 SF/BOX",
-    "description": "NORTHERN RETREAT ENGINEERED HARDWOOD 7-1/2 X 5/8 CAVERN – 23.32 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 14546,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859005",
-    "sku": "210000009623",
-    "slug": "naf-engineered-oak-wirebrushed-18mm-x-165mm-x-1800-galaxy-19-18-sf-box",
-    "name": "NAF ENGINEERED OAK WIREBRUSHED 18mm x 165mm x 1800 GALAXY – 19.18 SF/BOX",
-    "description": "NAF ENGINEERED OAK WIREBRUSHED 18mm x 165mm x 1800 GALAXY – 19.18 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 9566,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/krsqvsooemroljyc2vka.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859004",
-    "sku": "210000009622",
-    "slug": "maple-solid-flooring-handscraped-distressed-4-3-4-x-3-4-in-cinnamon-21-7-sf-box",
-    "name": "MAPLE SOLID FLOORING HANDSCRAPED & DISTRESSED 4-3/4 X 3/4 IN CINNAMON – 21.7 SF/BOX",
-    "description": "MAPLE SOLID FLOORING HANDSCRAPED & DISTRESSED 4-3/4 X 3/4 IN CINNAMON – 21.7 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 13535,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859003",
-    "sku": "210000009621",
-    "slug": "maple-graphite-parque-5-16-x-14x-14-40-sf-box",
-    "name": "MAPLE GRAPHITE PARQUE 5/16 X 14X 14 – 40 SF/BOX",
-    "description": "MAPLE GRAPHITE PARQUE 5/16 X 14X 14 – 40 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 14950,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859002",
-    "sku": "210000009620",
-    "slug": "manhattan-split-face-15-x-61-6-sf-pc",
-    "name": "MANHATTAN SPLIT FACE 15 X 61 – 6 SF/PC",
-    "description": "MANHATTAN SPLIT FACE 15 X 61 – 6 SF/PC. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 6000,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859001",
-    "sku": "210000009619",
-    "slug": "l3513-mdf-primed-5-8-x-2-3-4-x-7ft",
-    "name": "L3513 MDF PRIMED 5/8 X 2 3/4 X 7FT",
-    "description": "L3513 MDF PRIMED 5/8 X 2 3/4 X 7FT. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 875,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-859000",
-    "sku": "210000009618",
-    "slug": "falcon-floor-oak-engineered-flooring-wire-brushed-virtuous-6-x-3-4-in-20-7-sf-bo",
-    "name": "FALCON FLOOR OAK ENGINEERED FLOORING WIRE BRUSHED – VIRTUOUS 6 X 3/4 IN – 20.7 SF/BOX",
-    "description": "FALCON FLOOR OAK ENGINEERED FLOORING WIRE BRUSHED – VIRTUOUS 6 X 3/4 IN – 20.7 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 7763,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858999",
-    "sku": "210000009617",
-    "slug": "engineered-hardwood-flooring-american-oak-daybreak-ab-6-x-3-4-in-20-69-sf-box",
-    "name": "ENGINEERED HARDWOOD FLOORING AMERICAN OAK DAYBREAK-AB 6 X 3/4 IN – 20.69 SF/BOX",
-    "description": "ENGINEERED HARDWOOD FLOORING AMERICAN OAK DAYBREAK-AB 6 X 3/4 IN – 20.69 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 12931,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858998",
-    "sku": "210000009616",
-    "slug": "eco-carbon-foam-4-x-8-x-2in-eco-40-3453",
-    "name": "ECO CARBON FOAM 4′ X 8′ X 2IN ECO-40 3453",
-    "description": "ECO CARBON FOAM 4′ X 8′ X 2IN ECO-40 3453. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 7500,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858997",
-    "sku": "210000009615",
-    "slug": "deerwood-flooring-oak-solid-hand-scrapped-distressed-walnut-5-x-3-4-in-23-sf-box",
-    "name": "DEERWOOD FLOORING OAK SOLID HAND SCRAPPED & DISTRESSED WALNUT 5 X 3/4 IN – 23 SF/BOX",
-    "description": "DEERWOOD FLOORING OAK SOLID HAND SCRAPPED & DISTRESSED WALNUT 5 X 3/4 IN – 23 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 14346,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858996",
-    "sku": "210000009614",
-    "slug": "12x24-venato-polished-16-sf-box",
-    "name": "12X24 VENATO POLISHED 16 SF/BOX",
-    "description": "12X24 VENATO POLISHED 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 4000,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858995",
-    "sku": "210000009613",
-    "slug": "12x24-statuario-polished-16-sf-box",
-    "name": "12X24 STATUARIO POLISHED 16 SF/BOX",
-    "description": "12X24 STATUARIO POLISHED 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 4000,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858994",
-    "sku": "210000009612",
-    "slug": "12x24-statuario-matte-16-sf-box",
-    "name": "12X24 STATUARIO MATTE 16 SF/BOX",
-    "description": "12X24 STATUARIO MATTE 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 4000,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858993",
-    "sku": "210000009611",
-    "slug": "12x24-sand-clay-16-sf-box",
-    "name": "12X24 SAND CLAY 16 SF/BOX",
-    "description": "12X24 SAND CLAY 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 4000,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858992",
-    "sku": "210000009610",
-    "slug": "12x24-notion-mist-polished-16-sf-box",
-    "name": "12X24 NOTION MIST POLISHED 16 SF/BOX",
-    "description": "12X24 NOTION MIST POLISHED 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 4000,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858991",
-    "sku": "210000009609",
-    "slug": "12x24-la-marca-onyx-nuvolato-polished-16-sf-box",
-    "name": "12X24 LA MARCA ONYX NUVOLATO POLISHED 16 SF/BOX",
-    "description": "12X24 LA MARCA ONYX NUVOLATO POLISHED 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 5000,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858990",
-    "sku": "210000009608",
-    "slug": "12x24-evolution-earth-polished-16-sf-box",
-    "name": "12X24 EVOLUTION EARTH POLISHED 16 SF/BOX",
-    "description": "12X24 EVOLUTION EARTH POLISHED 16 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 4000,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858989",
-    "sku": "210000009607",
-    "slug": "0q38c-pine-3-4-x-3-1-2-x-8ft",
-    "name": "0Q38C PINE 3/4 X 3 1/2 X 8FT",
-    "description": "0Q38C PINE 3/4 X 3 1/2 X 8FT. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 1000,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858988",
-    "sku": "210000009606",
-    "slug": "02828-casing-mdf-primed-1-2-x-3-7-8-x-8ft",
-    "name": "02828 CASING MDF PRIMED 1/2 X 3 7/8 X 8FT",
-    "description": "02828 CASING MDF PRIMED 1/2 X 3 7/8 X 8FT. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 1000,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858987",
-    "sku": "210000020474",
-    "slug": "oak-engineered-hardwood-toffee-crunch-25-25-sf-box",
-    "name": "OAK ENGINEERED HARDWOOD – TOFFEE CRUNCH 25.25 SF/BOX",
-    "description": "OAK ENGINEERED HARDWOOD – TOFFEE CRUNCH 25.25 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 13256,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/lxhx0fi9aco5mkv1fryv.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858986",
-    "sku": "210000020473",
-    "slug": "pg-flooring-hardwood-hard-maple-momentum-19-sf-box",
-    "name": "PG FLOORING HARDWOOD HARD MAPLE – MOMENTUM 19 SF/BOX",
-    "description": "PG FLOORING HARDWOOD HARD MAPLE – MOMENTUM 19 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 9975,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858985",
-    "sku": "210000020472",
-    "slug": "pg-flooring-solid-oak-hazelnut-22-sqft-box",
-    "name": "PG FLOORING SOLID OAK – HAZELNUT 22 SQFT/BOX",
-    "description": "PG FLOORING SOLID OAK – HAZELNUT 22 SQFT/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 11550,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858984",
-    "sku": "210000020465",
-    "slug": "biyork-summer-salom-23-sf-box",
-    "name": "BIYORK SUMMER SALOM 23 SF/BOX",
-    "description": "BIYORK SUMMER SALOM 23 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 12075,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858983",
-    "sku": "210000020459",
-    "slug": "canadian-standard-hardwood-venetian-brown-sb-jutoba-22-75-sf-box",
-    "name": "CANADIAN STANDARD HARDWOOD VENETIAN BROWN S&B – JUTOBA 22.75 SF/BOX",
-    "description": "CANADIAN STANDARD HARDWOOD VENETIAN BROWN S&B – JUTOBA 22.75 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 11944,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858982",
-    "sku": "210000020406",
-    "slug": "vidar-6-1-2-hardwood-sky-30-93-sf-box",
-    "name": "VIDAR 6 1/2 HARDWOOD SKY 30.93 SF/BOX",
-    "description": "VIDAR 6 1/2 HARDWOOD SKY 30.93 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 16238,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858981",
-    "sku": "210000020390",
-    "slug": "pg-ahtcia-6-1-2-20-sf-box",
-    "name": "PG AHTCIA 6 1/2 20 SF/BOX",
-    "description": "PG AHTCIA 6 1/2 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 13125,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858980",
-    "sku": "210000020347",
-    "slug": "pg-model-meteora-22-sf-box",
-    "name": "PG MODEL METEORA 22 SF/BOX",
-    "description": "PG MODEL METEORA 22 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 11550,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858979",
-    "sku": "210000020344",
-    "slug": "biyork-summer-peach-23-sf-box",
-    "name": "BIYORK SUMMER PEACH 23 SF/BOX",
-    "description": "BIYORK SUMMER PEACH 23 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 12075,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858978",
-    "sku": "210000020089",
-    "slug": "pg-model-oasis-19-sf-box",
-    "name": "PG MODEL OASIS 19 SF/BOX",
-    "description": "PG MODEL OASIS 19 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 12469,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858977",
-    "sku": "210000019971",
-    "slug": "naf-hardwood-engineered-hickory-grey-stone-19-18-sf-box",
-    "name": "NAF HARDWOOD ENGINEERED HICKORY – GREY STONE 19.18 SF/BOX",
-    "description": "NAF HARDWOOD ENGINEERED HICKORY – GREY STONE 19.18 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10070,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/itlfwo5ek1ox2pdaha4s.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858976",
-    "sku": "210000019959",
-    "slug": "falcon-floors-hardwood-maple-solid-floorinng-sky-21-7-sf-box",
-    "name": "FALCON FLOORS HARDWOOD MAPLE SOLID FLOORINNG – SKY 21.7 SF/BOX",
-    "description": "FALCON FLOORS HARDWOOD MAPLE SOLID FLOORINNG – SKY 21.7 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 11393,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858975",
-    "sku": "210000019948",
-    "slug": "oak-engineered-hardwood-rocky-coast-18-25-sf-box",
-    "name": "OAK ENGINEERED HARDWOOD – ROCKY COAST 18.25 SF/BOX",
-    "description": "OAK ENGINEERED HARDWOOD – ROCKY COAST 18.25 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 9581,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858974",
-    "sku": "210000019911",
-    "slug": "3-1-4-birch-hardwood-caraway-20-sf-box",
-    "name": "3 1/4 BIRCH HARDWOOD – CARAWAY 20 SF/BOX",
-    "description": "3 1/4 BIRCH HARDWOOD – CARAWAY 20 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 10500,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858973",
-    "sku": "210000019887",
-    "slug": "laminate-stair-tread-plus-riser-bordeaux-oak-4-set-box",
-    "name": "LAMINATE STAIR TREAD PLUS RISER – BORDEAUX OAK (4 SET/BOX)",
-    "description": "LAMINATE STAIR TREAD PLUS RISER – BORDEAUX OAK (4 SET/BOX). Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 3938,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858972",
-    "sku": "210000019833",
-    "slug": "laminate-stair-tread-plus-riser-pewter-2-set-box",
-    "name": "LAMINATE STAIR TREAD PLUS RISER – PEWTER (2 SET/BOX)",
-    "description": "LAMINATE STAIR TREAD PLUS RISER – PEWTER (2 SET/BOX). Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 3938,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/i8gzblyj2iw8rx3wgs3u.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858971",
-    "sku": "210000019823",
-    "slug": "colonial-satin-hardwood-walnut-19-sf-box",
-    "name": "COLONIAL SATIN HARDWOOD WALNUT 19 SF/BOX",
-    "description": "COLONIAL SATIN HARDWOOD WALNUT 19 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 9975,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858970",
-    "sku": "210000019820",
-    "slug": "laminate-stair-tread-plus-riser-natural-red-oak-4-set-box",
-    "name": "LAMINATE STAIR TREAD PLUS RISER – NATURAL RED OAK (4 SET/BOX)",
-    "description": "LAMINATE STAIR TREAD PLUS RISER – NATURAL RED OAK (4 SET/BOX). Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 3938,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858969",
-    "sku": "210000019784",
-    "slug": "laminate-stair-tread-plus-riser-chocolate-oak-2-set-box",
-    "name": "LAMINATE STAIR TREAD PLUS RISER – CHOCOLATE OAK (2 SET/BOX)",
-    "description": "LAMINATE STAIR TREAD PLUS RISER – CHOCOLATE OAK (2 SET/BOX). Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 3938,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858968",
-    "sku": "210000019641",
-    "slug": "unfinished-white-oak-hardwood-7in-1-sqft",
-    "name": "UNFINISHED WHITE OAK HARDWOOD 7IN – 1 SQFT",
-    "description": "UNFINISHED WHITE OAK HARDWOOD 7IN – 1 SQFT. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 656,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858965",
-    "sku": "210000021229",
-    "slug": "olfa-wd-l-brn-wood-composite-snap-off-knife",
-    "name": "OLFA WD-L/BRN WOOD COMPOSITE SNAP OFF KNIFE",
-    "description": "OLFA WD-L/BRN WOOD COMPOSITE SNAP OFF KNIFE. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 1599,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "OLFA",
-    "specs": [
-      {
-        "label": "Manufacturer",
-        "value": "OLFA"
-      },
-      {
-        "label": "Dragona Flooring",
-        "value": "20"
-      },
-      {
-        "label": "Dragona Scarborough",
-        "value": "20"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/dycbzmdjutne99l7mh6y.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858964",
-    "sku": "210000021228",
-    "slug": "crain-346-j-hand-roller",
-    "name": "CRAIN 346 J HAND ROLLER",
-    "description": "CRAIN 346 J HAND ROLLER. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 2999,
-    "inStock": true,
-    "stockQty": 25,
-    "unit": "each",
-    "brand": "CRAIN",
-    "specs": [
-      {
-        "label": "Manufacturer",
-        "value": "CRAIN"
-      },
-      {
-        "label": "Dragona Flooring",
-        "value": "5"
-      },
-      {
-        "label": "Dragona Scarborough",
-        "value": "5"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/aylpdryudzk8hps55xgs.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858962",
-    "sku": "210000021227",
-    "slug": "titan-diamond-tools-cb065-diamond-core-bit-2-1-2-in-65mm-diameter-2-1-2-in-57mm",
-    "name": "TITAN DIAMOND TOOLS CB065 DIAMOND CORE BIT – 2-1/2 IN (65MM) DIAMETER: 2-1/2 IN (57MM)",
-    "description": "TITAN DIAMOND TOOLS CB065 DIAMOND CORE BIT – 2-1/2 IN (65MM) DIAMETER: 2-1/2 IN (57MM). Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 1,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/nvq6inru6jq7qqx7nr1q.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858961",
-    "sku": "210000021226",
-    "slug": "titan-diamond-tools-extension-shaft-es127115-5-127mm-extension-shaft",
-    "name": "TITAN DIAMOND TOOLS EXTENSION SHAFT ES127115- 5″ (127MM) EXTENSION SHAFT",
-    "description": "TITAN DIAMOND TOOLS EXTENSION SHAFT ES127115- 5″ (127MM) EXTENSION SHAFT. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 1,
-    "inStock": true,
-    "stockQty": 25,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "DRAGONA OTTAWA",
-        "value": "2"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858960",
-    "sku": "210000021225",
-    "slug": "titan-diamond-tools-flap-disc-fd115-120-41-2-120grit-diamond-smoothing-blade",
-    "name": "TITAN DIAMOND TOOLS FLAP DISC FD115-120 41/2″ (120GRIT) DIAMOND SMOOTHING BLADE",
-    "description": "TITAN DIAMOND TOOLS FLAP DISC FD115-120 41/2″ (120GRIT) DIAMOND SMOOTHING BLADE. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 1,
-    "inStock": true,
-    "stockQty": 25,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "DRAGONA OTTAWA",
-        "value": "1"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/jz4heppgdg9z1egkcqcr.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858959",
-    "sku": "210000021224",
-    "slug": "titan-diamond-tools-flap-disc-fd115-060-41-2-60grit-diamond-soothing-blade",
-    "name": "TITAN DIAMOND TOOLS FLAP DISC FD115-060 41/2″ (60GRIT) DIAMOND SOOTHING BLADE",
-    "description": "TITAN DIAMOND TOOLS FLAP DISC FD115-060 41/2″ (60GRIT) DIAMOND SOOTHING BLADE. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 1,
-    "inStock": true,
-    "stockQty": 25,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "DRAGONA OTTAWA",
-        "value": "1"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/z0a7pk199krhhgc7tjbo.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858958",
-    "sku": "210000021223",
-    "slug": "titan-diamond-tools-md050-4-1-2-115mm-phantom-glass-diamond-cutting-blade",
-    "name": "TITAN DIAMOND TOOLS MD050 4-1/2″ (115MM) PHANTOM GLASS DIAMOND CUTTING BLADE",
-    "description": "TITAN DIAMOND TOOLS MD050 4-1/2″ (115MM) PHANTOM GLASS DIAMOND CUTTING BLADE. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 3995,
-    "inStock": true,
-    "stockQty": 25,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "DRAGONA OTTAWA",
-        "value": "1"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/bbbgwhfcydaepalcvhwe.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858957",
-    "sku": "210000021222",
-    "slug": "titan-diamond-tools-md075-3-75mm-mini-diamond-cutting-blade",
-    "name": "TITAN DIAMOND TOOLS MD075 3″ (75MM) MINI DIAMOND CUTTING BLADE",
-    "description": "TITAN DIAMOND TOOLS MD075 3″ (75MM) MINI DIAMOND CUTTING BLADE. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 3295,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/c9zhpdcvsdyzgakbqter.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858956",
-    "sku": "210000021221",
-    "slug": "titan-diamond-tools-hs010-diamond-hex-shank-core-bit-3-8-in-10mm",
-    "name": "TITAN DIAMOND TOOLS HS010 DIAMOND HEX SHANK CORE BIT – 3/8 IN (10MM)",
-    "description": "TITAN DIAMOND TOOLS HS010 DIAMOND HEX SHANK CORE BIT – 3/8 IN (10MM). Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 219900,
-    "inStock": true,
-    "stockQty": 25,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Dragona Flooring",
-        "value": "5"
-      },
-      {
-        "label": "DRAGONA OTTAWA",
-        "value": "3"
-      },
-      {
-        "label": "Dragona Scarborough",
-        "value": "5"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/dczry29k4cplkjuvgoto.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858955",
-    "sku": "210000021220",
-    "slug": "foundation-charcoal-86577",
-    "name": "FOUNDATION CHARCOAL 86577 COMMERCIAL CARPET",
-    "description": "FOUNDATION CHARCOAL 86577 COMMERCIAL CARPET. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 1200,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Dragona Flooring",
-        "value": "632"
-      },
-      {
-        "label": "Dragona Scarborough",
-        "value": "632"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858954",
-    "sku": "210000021219",
-    "slug": "foundation-cloud-84138",
-    "name": "FOUNDATION CLOUD 84138 COMMERCIAL CARPET",
-    "description": "FOUNDATION CLOUD 84138 COMMERCIAL CARPET. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 1200,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Dragona Flooring",
-        "value": "980"
-      },
-      {
-        "label": "Dragona Scarborough",
-        "value": "980"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858953",
-    "sku": "210000021218",
-    "slug": "foundation-river-84200",
-    "name": "FOUNDATION RIVER 84200 COMMERCIAL CARPET",
-    "description": "FOUNDATION RIVER 84200 COMMERCIAL CARPET. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 1200,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Dragona Flooring",
-        "value": "666"
-      },
-      {
-        "label": "Dragona Scarborough",
-        "value": "666"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858952",
-    "sku": "210000021217",
-    "slug": "rockwool-r28-comfortbatt-2x8-wood-stud-23-inch-insulation-30-sq-ft",
-    "name": "ROCKWOOL R28 COMFORTBATT 2X8 WOOD STUD 23 INCH INSULATION 30 SQ FT",
-    "description": "ROCKWOOL R28 COMFORTBATT 2X8 WOOD STUD 23 INCH INSULATION 30 SQ FT. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 9164,
-    "inStock": true,
-    "stockQty": 25,
-    "unit": "each",
-    "brand": "ROCKWOOL",
-    "specs": [
-      {
-        "label": "Manufacturer",
-        "value": "ROCKWOOL"
-      },
-      {
-        "label": "M FlooReno Building Supplies",
-        "value": "24"
-      }
-    ],
-    "imageEmoji": "📦",
-    "imageUrl": "https://flooreno.ca/wp-content/uploads/2026/06/wiusumsuljqtfhvnfhgh.png",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858951",
-    "sku": "210000021215",
-    "slug": "rd2330-sand",
-    "name": "RD2330 SAND",
-    "description": "RD2330 SAND. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 1,
-    "inStock": false,
-    "stockQty": 0,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Supplier",
-        "value": "FlooReno"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858950",
-    "sku": "210000021214",
-    "slug": "sherwood-summit-ii-sb-almond-4-1-4-red-oak-19-00-sf-box",
-    "name": "SHERWOOD SUMMIT II S&B ALMOND 4 1/4” RED OAK 19.00 SF/BOX",
-    "description": "SHERWOOD SUMMIT II S&B ALMOND 4 1/4” RED OAK 19.00 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 11400,
-    "inStock": true,
-    "stockQty": 25,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Dragona Flooring",
-        "value": "1"
-      },
-      {
-        "label": "Dragona Scarborough",
-        "value": "1"
-      }
-    ],
-    "imageEmoji": "📦",
-    "featured": false,
-    "supplierId": "flooreno",
-    "sellerName": "FlooReno",
-    "relatedIds": [
-      "fr-856314",
-      "fr-856313",
-      "fr-856312",
-      "fr-856306"
-    ]
-  },
-  {
-    "id": "fr-858949",
-    "sku": "210000021212",
-    "slug": "sherwood-summit-ii-sb-biscuit-4-1-4-red-oak-19-00-sf-box",
-    "name": "SHERWOOD SUMMIT II S&B BISCUIT 4 1/4” RED OAK 19.00 SF/BOX",
-    "description": "SHERWOOD SUMMIT II S&B BISCUIT 4 1/4” RED OAK 19.00 SF/BOX. Sourced from the FlooReno building supplies catalog for Supplyr.",
-    "categoryId": "cat-building-materials",
-    "priceCents": 11400,
-    "inStock": true,
-    "stockQty": 25,
-    "unit": "each",
-    "brand": "FlooReno",
-    "specs": [
-      {
-        "label": "Dragona Flooring",
-        "value": "51"
-      },
-      {
-        "label": "Dragona Scarborough",
-        "value": "51"
-      }
-    ],
-    "imageEmoji": "📦",
     "featured": false,
     "supplierId": "flooreno",
     "sellerName": "FlooReno",
