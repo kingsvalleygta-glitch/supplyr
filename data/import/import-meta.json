@@ -1,8 +1,10 @@
 {
   "source": "flooreno.ca WooCommerce Store API",
   "orderby": "mixed (popularity + category + id-asc)",
-  "productCount": 9503,
+  "productCount": 10097,
   "categoryCount": 15,
-  "rawFiles": 141,
-  "updatedAt": "2026-09-17T18:33:22.742431-04:00"
+  "rawFiles": 148,
+  "updatedAt": "2026-09-17T18:34:36.272203-04:00",
+  "target": 17236,
+  "note": "Past 10k milestone via orderby=id long-tail; popularity pages 8/10/20/33+ and id gaps remain"
 }
