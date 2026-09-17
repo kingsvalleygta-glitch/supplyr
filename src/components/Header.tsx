@@ -4,17 +4,29 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { FormEvent, useEffect, useState } from "react";
 import { useCart } from "@/components/CartProvider";
+import { useProStatus } from "@/components/ProProvider";
 
 const NAV = [
-  { href: "/categories/lumber-sheet-goods", label: "Lumber" },
-  { href: "/categories/fasteners-hardware", label: "Fasteners" },
-  { href: "/categories/concrete-masonry", label: "Concrete" },
-  { href: "/categories/electrical", label: "Electrical" },
+  { href: "/categories/floors", label: "Floors" },
+  { href: "/categories/building-materials", label: "Building" },
   { href: "/categories/plumbing", label: "Plumbing" },
-  { href: "/categories/tools-equipment", label: "Tools" },
-  { href: "/categories/insulation-drywall", label: "Insulation" },
-  { href: "/categories/safety-ppe", label: "Safety" },
+  { href: "/categories/electrical", label: "Electrical" },
+  { href: "/categories/hardware", label: "Hardware" },
+  { href: "/categories/tools", label: "Tools" },
+  { href: "/categories/bath", label: "Bath" },
+  { href: "/categories/kitchen", label: "Kitchen" },
+  { href: "/calculator", label: "Calculator" },
 ];
+
+function ProBadge() {
+  const { isPro } = useProStatus();
+  if (!isPro) return null;
+  return (
+    <span className="rounded-full bg-accent px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-accent-fg">
+      Pro
+    </span>
+  );
+}
 
 function LogoMark({ className = "" }: { className?: string }) {
   return (
@@ -69,11 +81,18 @@ export function Header() {
           <p className="min-w-0 truncate text-white/80">
             <span className="font-semibold text-accent">GTA delivery</span>
             <span className="mx-2 text-white/25">·</span>
-            Trade pricing
+            <Link href="/pro" className="hover:text-accent">
+              Pro pricing
+            </Link>
             <span className="mx-2 hidden text-white/25 sm:inline">·</span>
-            <span className="hidden sm:inline">Kings Valley Homes</span>
+            <Link href="/pro" className="hidden hover:text-accent sm:inline">
+              Trade accounts
+            </Link>
           </p>
-          <p className="shrink-0 text-white/50">CAD · en-CA</p>
+          <div className="flex shrink-0 items-center gap-3 text-white/50">
+            <ProBadge />
+            <span>CAD · en-CA</span>
+          </div>
         </div>
       </div>
 

@@ -10,8 +10,21 @@ import { productRepository } from "@/lib/repositories/productRepository";
 
 type Props = { params: Promise<{ slug: string }> };
 
+export const dynamicParams = true;
+
 export async function generateStaticParams() {
-  return productRepository.list().map((p) => ({ slug: p.slug }));
+  // Pre-render featured + a slice to keep builds fast; remaining slugs resolve on demand.
+  const all = productRepository.list();
+  const featured = all.filter((p) => p.featured);
+  const rest = all.filter((p) => !p.featured).slice(0, 200);
+  const seen = new Set<string>();
+  const slugs: { slug: string }[] = [];
+  for (const p of [...featured, ...rest]) {
+    if (seen.has(p.slug)) continue;
+    seen.add(p.slug);
+    slugs.push({ slug: p.slug });
+  }
+  return slugs;
 }
 
 export async function generateMetadata({ params }: Props) {
@@ -51,6 +64,7 @@ export default async function ProductPage({ params }: Props) {
           <ProductMedia
             categoryId={product.categoryId}
             productId={product.id}
+            imageUrl={product.imageUrl}
             alt={product.name}
             className="aspect-[4/3] w-full sm:aspect-[5/4] lg:min-h-[28rem]"
             priority

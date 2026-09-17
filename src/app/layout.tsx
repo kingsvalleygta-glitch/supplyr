@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Archivo, Inter } from "next/font/google";
 import { CartProvider } from "@/components/CartProvider";
+import { ProProvider } from "@/components/ProProvider";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import "./globals.css";
@@ -37,9 +38,11 @@ export default function RootLayout({
         className={`${inter.variable} ${archivo.variable} flex min-h-screen flex-col bg-background font-sans text-foreground antialiased`}
       >
         <CartProvider>
-          <Header />
-          <main className="flex-1">{children}</main>
-          <Footer />
+          <ProProvider>
+            <Header />
+            <main className="flex-1">{children}</main>
+            <Footer />
+          </ProProvider>
         </CartProvider>
       </body>
     </html>

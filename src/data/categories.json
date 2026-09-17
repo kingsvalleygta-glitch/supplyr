@@ -1,66 +1,122 @@
 [
   {
-    "id": "cat-lumber",
-    "slug": "lumber-sheet-goods",
-    "name": "Lumber & Sheet Goods",
-    "description": "Dimensional lumber, plywood, OSB, and engineered wood for framing and finishing.",
-    "imageEmoji": "🪵",
+    "id": "cat-appliances",
+    "slug": "appliances",
+    "name": "Appliances",
+    "description": "Kitchen and laundry appliances for residential projects.",
+    "imageEmoji": "🧊",
     "featured": true
   },
   {
-    "id": "cat-fasteners",
-    "slug": "fasteners-hardware",
-    "name": "Fasteners & Hardware",
-    "description": "Screws, nails, bolts, brackets, and structural connectors.",
-    "imageEmoji": "🔩",
+    "id": "cat-bath",
+    "slug": "bath",
+    "name": "Bath",
+    "description": "Bathtubs, vanities, faucets, and bathroom finishing.",
+    "imageEmoji": "🛁",
     "featured": true
   },
   {
-    "id": "cat-concrete",
-    "slug": "concrete-masonry",
-    "name": "Concrete & Masonry",
-    "description": "Mixes, rebar, block, and masonry tools for foundations and flatwork.",
+    "id": "cat-building-materials",
+    "slug": "building-materials",
+    "name": "Building Materials",
+    "description": "Lumber, drywall, insulation, concrete, and decking.",
     "imageEmoji": "🧱",
+    "featured": true
+  },
+  {
+    "id": "cat-cleaning",
+    "slug": "cleaning",
+    "name": "Cleaning",
+    "description": "Jobsite and household cleaning supplies.",
+    "imageEmoji": "🧹",
+    "featured": false
+  },
+  {
+    "id": "cat-doors-windows",
+    "slug": "doors-windows",
+    "name": "Doors & Windows",
+    "description": "Doors, windows, and door hardware.",
+    "imageEmoji": "🚪",
     "featured": true
   },
   {
     "id": "cat-electrical",
     "slug": "electrical",
     "name": "Electrical",
-    "description": "Wire, breakers, boxes, and devices for residential and light commercial.",
+    "description": "Wire, breakers, boxes, devices, and fittings.",
     "imageEmoji": "⚡",
     "featured": true
+  },
+  {
+    "id": "cat-floors",
+    "slug": "floors",
+    "name": "Floors",
+    "description": "Hardwood, resilient, tile, carpet, and flooring tools.",
+    "imageEmoji": "🪵",
+    "featured": true
+  },
+  {
+    "id": "cat-hardware",
+    "slug": "hardware",
+    "name": "Hardware",
+    "description": "Fasteners, hinges, and furniture hardware.",
+    "imageEmoji": "🔩",
+    "featured": true
+  },
+  {
+    "id": "cat-heating-and-cooling-hvac",
+    "slug": "heating-and-cooling-hvac",
+    "name": "HVAC",
+    "description": "Heating, cooling, and air quality supplies.",
+    "imageEmoji": "❄️",
+    "featured": true
+  },
+  {
+    "id": "cat-kitchen",
+    "slug": "kitchen",
+    "name": "Kitchen",
+    "description": "Kitchen sinks, faucets, and cabinet hardware.",
+    "imageEmoji": "🍽️",
+    "featured": true
+  },
+  {
+    "id": "cat-lighting-ceiling-fans",
+    "slug": "lighting-ceiling-fans",
+    "name": "Lighting",
+    "description": "Ceiling lights, fans, and commercial lighting.",
+    "imageEmoji": "💡",
+    "featured": false
+  },
+  {
+    "id": "cat-moulding-and-millwork",
+    "slug": "moulding-and-millwork",
+    "name": "Moulding & Millwork",
+    "description": "Baseboard, crown, and trim millwork.",
+    "imageEmoji": "📐",
+    "featured": false
+  },
+  {
+    "id": "cat-paint",
+    "slug": "paint",
+    "name": "Paint",
+    "description": "Paint, adhesives, sealants, and finishes.",
+    "imageEmoji": "🎨",
+    "featured": false
   },
   {
     "id": "cat-plumbing",
     "slug": "plumbing",
     "name": "Plumbing",
-    "description": "Pipe, fittings, valves, and fixtures for rough-in and finish.",
+    "description": "Pipe, fittings, valves, and plumbing accessories.",
     "imageEmoji": "🚿",
     "featured": true
   },
   {
     "id": "cat-tools",
-    "slug": "tools-equipment",
-    "name": "Tools & Equipment",
-    "description": "Power tools, hand tools, and site equipment for GTA crews.",
+    "slug": "tools",
+    "name": "Tools",
+    "description": "Hand tools, power tools, and safety gear.",
     "imageEmoji": "🔧",
     "featured": true
-  },
-  {
-    "id": "cat-insulation",
-    "slug": "insulation-drywall",
-    "name": "Insulation & Drywall",
-    "description": "Batt insulation, vapour barriers, drywall, and finishing supplies.",
-    "imageEmoji": "🏠",
-    "featured": false
-  },
-  {
-    "id": "cat-safety",
-    "slug": "safety-ppe",
-    "name": "Safety & PPE",
-    "description": "Hard hats, gloves, harnesses, and site safety gear.",
-    "imageEmoji": "🦺",
-    "featured": false
   }
 ]

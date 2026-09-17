@@ -72,19 +72,25 @@ export default function HomePage() {
               <span className="text-accent">ready for the jobsite.</span>
             </h1>
             <p className="mt-6 max-w-xl text-base leading-relaxed text-white/70 sm:text-lg">
-              Order lumber, fasteners, concrete, electrical, plumbing, tools, and
-              safety gear with clear CAD pricing and GTA delivery — curated for
-              crews who build every day.
+              Order flooring, building materials, plumbing, electrical, hardware, tools,
+              and more with clear CAD pricing and GTA delivery — catalog mirrored
+              from FlooReno for Supplyr crews.
             </p>
             <div className="mt-9 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
               <Link href="/search" className="btn-primary min-h-12 w-full px-7 py-3.5 text-base sm:w-auto">
                 Browse catalog
               </Link>
               <Link
-                href="/categories/lumber-sheet-goods"
+                href="/categories/floors"
                 className="inline-flex min-h-12 w-full items-center justify-center rounded-md border border-white/25 bg-white/5 px-7 py-3.5 text-base font-semibold text-white backdrop-blur hover:bg-white/10 sm:w-auto"
               >
-                Shop lumber
+                Shop floors
+              </Link>
+              <Link
+                href="/calculator"
+                className="inline-flex min-h-12 w-full items-center justify-center rounded-md border border-accent/40 bg-accent/10 px-7 py-3.5 text-base font-semibold text-accent backdrop-blur hover:bg-accent/20 sm:w-auto"
+              >
+                Install calculator
               </Link>
             </div>
           </div>
@@ -92,7 +98,7 @@ export default function HomePage() {
             {[
               ["Free*", "GTA delivery on $500+"],
               ["CAD", "Transparent list pricing"],
-              ["8", "Core trade categories"],
+              ["15", "Trade categories"],
               ["30-day", "Returns on unused stock"],
             ].map(([k, v]) => (
               <div

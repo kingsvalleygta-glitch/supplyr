@@ -1,0 +1,15 @@
+{
+  "imported": 900,
+  "categories": 15,
+  "source": "https://flooreno.ca WooCommerce Store API via Apify apify/web-fetch (unblocker)",
+  "catalogTotalReported": 17236,
+  "remainingApprox": 16336,
+  "note": "Partial sync of popular + floors products. Dedicated WooCommerce Apify scrapers returned 0 (Cloudflare). Re-run: fetch ?per_page=100&page=N&orderby=popularity via Apify web-fetch, save JSON arrays to data/import/raw/, then python3 scripts/transform_flooreno.py",
+  "apifyLimitsHit": [
+    "Free-tier concurrent Actor runs capped at 5",
+    "trovevault/woocommerce-products-scraper and piotrv1001/woocommerce-product-scraper returned 0 items (bot protection)",
+    "sourabhbgp/woocommerce-scraper FAILED (could not find products)",
+    "khadinakbar/ecommerce-store-scraper returned VALID_EMPTY",
+    "apify/web-scraper requires account permission approval"
+  ]
+}

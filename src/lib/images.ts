@@ -13,6 +13,19 @@ export const CATEGORY_IMAGES: Record<string, string> = {
   "cat-tools": u("photo-1572981779307-38b8cabb2407"),
   "cat-insulation": u("photo-1484154218962-a197022b5858"),
   "cat-safety": u("photo-1565008447742-97f6f38c985c"),
+  "cat-appliances": u("photo-1556911220-bff31c812dba"),
+  "cat-bath": u("photo-1584622650111-993a426fbf0a"),
+  "cat-building-materials": u("photo-1504307651254-35680f356dfd"),
+  "cat-cleaning": u("photo-1581578731548-c64695cc6952"),
+  "cat-doors-windows": u("photo-1600607687939-ce8a6c25118c"),
+  "cat-floors": u("photo-1615874959474-d609969a20ed"),
+  "cat-hardware": u("photo-1530124566582-a618bc2615dc"),
+  "cat-heating-and-cooling-hvac": u("photo-1621905251189-08b45d6a269e"),
+  "cat-hvac": u("photo-1621905251189-08b45d6a269e"),
+  "cat-kitchen": u("photo-1556911220-bff31c812dba"),
+  "cat-lighting-ceiling-fans": u("photo-1513506003901-1e6a229e2d15"),
+  "cat-moulding-and-millwork": u("photo-1600585154340-be6161a56a0c"),
+  "cat-paint": u("photo-1562259949-e8e7689d7828"),
 };
 
 /** Per-SKU photos; category image used when missing */

@@ -24,18 +24,28 @@ export function Footer() {
               </Link>
             </li>
             <li>
-              <Link href="/categories/lumber-sheet-goods" className="hover:text-white">
-                Lumber & sheet goods
+              <Link href="/categories/floors" className="hover:text-white">
+                Floors
               </Link>
             </li>
             <li>
-              <Link href="/categories/tools-equipment" className="hover:text-white">
-                Tools & equipment
+              <Link href="/categories/building-materials" className="hover:text-white">
+                Building materials
               </Link>
             </li>
             <li>
-              <Link href="/categories/safety-ppe" className="hover:text-white">
-                Safety & PPE
+              <Link href="/categories/tools" className="hover:text-white">
+                Tools
+              </Link>
+            </li>
+            <li>
+              <Link href="/calculator" className="hover:text-white">
+                Install calculator
+              </Link>
+            </li>
+            <li>
+              <Link href="/pro" className="hover:text-white">
+                Supplyr Pro
               </Link>
             </li>
           </ul>
@@ -54,8 +64,11 @@ export function Footer() {
             Trade
           </p>
           <p className="mt-4 text-sm leading-relaxed">
-            Trade accounts welcome. Pricing in CAD with HST calculated at
-            checkout. Returns accepted on unused stocked items within 30 days.
+            <Link href="/pro" className="font-semibold text-accent hover:underline">
+              Supplyr Pro
+            </Link>{" "}
+            trade accounts welcome. Pricing in CAD with HST at checkout.
+            Returns on unused stocked items within 30 days.
           </p>
         </div>
       </div>

@@ -8,6 +8,8 @@ export interface Category {
   name: string;
   description: string;
   imageEmoji: string;
+  /** Optional CDN image (e.g. Flooreno) */
+  imageUrl?: string;
   featured: boolean;
 }
 
@@ -31,6 +33,8 @@ export interface Product {
   brand: string;
   specs: ProductSpec[];
   imageEmoji: string;
+  /** Optional CDN image (e.g. Flooreno) */
+  imageUrl?: string;
   featured: boolean;
   /** Seam for future multi-supplier marketplace */
   supplierId: SupplierId;

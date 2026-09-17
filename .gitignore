@@ -44,3 +44,6 @@ next-env.d.ts
 # Local order store
 data/orders.json
 .env.local
+
+# Pro lead store
+data/pro-leads.json
