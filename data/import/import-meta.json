@@ -1,10 +1,10 @@
 {
-  "imported": 4775,
+  "imported": 4960,
   "categories": 15,
   "catalogTotalReported": 17236,
-  "remainingApprox": 12461,
+  "remainingApprox": 12276,
   "source": "https://flooreno.ca WooCommerce Store API via Apify apify/web-fetch",
-  "strategy": "Category pagination + popularity pages. Popularity pages flaky on CF for uncached URLs; category URLs succeed.",
+  "strategy": "Category pagination + popularity pages. Popularity pages flaky on CF; category URLs succeed.",
   "pop100PagesHave": [
     1,
     2,
@@ -96,6 +96,7 @@
     ],
     "14644": [
       1,
+      2,
       3
     ],
     "14656": [
@@ -132,8 +133,17 @@
     "14769": [
       4
     ],
+    "14770": [
+      1
+    ],
     "14784": [
       4
+    ],
+    "14831": [
+      1
+    ],
+    "14996": [
+      1
     ],
     "15003": [
       24
@@ -142,6 +152,6 @@
       1
     ]
   },
-  "updatedAt": "2026-09-17T18:05:08.126143-04:00",
-  "note": "Partial sync ~4.8k. Pushing before 5k milestone; continuing category fetches."
+  "updatedAt": "2026-09-17T18:07:49.269478-04:00",
+  "note": "Partial sync ~4960. Continuing category pagination toward 10k."
 }
