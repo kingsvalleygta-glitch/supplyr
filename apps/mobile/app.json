@@ -7,11 +7,25 @@
     "icon": "./assets/images/icon.png",
     "scheme": "supplyr",
     "userInterfaceStyle": "light",
+    "primaryColor": "#f5c518",
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "ca.kingsvalleyhomes.supplyr",
+      "buildNumber": "1",
       "infoPlist": {
-        "NSLocationWhenInUseUsageDescription": "Supplyr uses your location only to show live delivery tracking on the map."
+        "NSLocationWhenInUseUsageDescription": "Supplyr uses your location only to show live delivery tracking on the map.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Supplyr uses your location only to show live delivery tracking on the map.",
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "privacyManifests": {
+        "NSPrivacyAccessedAPITypes": [
+          {
+            "NSPrivacyAccessedAPIType": "NSPrivacyAccessedAPICategoryUserDefaults",
+            "NSPrivacyAccessedAPITypeReasons": [
+              "CA92.1"
+            ]
+          }
+        ]
       }
     },
     "android": {
@@ -22,6 +36,7 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "package": "ca.kingsvalleyhomes.supplyr",
+      "versionCode": 1,
       "permissions": [
         "ACCESS_COARSE_LOCATION",
         "ACCESS_FINE_LOCATION"
@@ -50,7 +65,7 @@
     "extra": {
       "apiBaseUrl": "https://supplyr-two.vercel.app",
       "eas": {
-        "projectId": "supplyr-mobile"
+        "projectId": "REPLACE_WITH_EAS_PROJECT_UUID"
       }
     }
   }

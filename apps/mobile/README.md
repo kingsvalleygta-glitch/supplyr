@@ -72,3 +72,9 @@ Mobile calls:
 ## Brand
 
 Black (`#111113`) + high-vis yellow (`#f5c518`), en-CA copy, CAD pricing.
+
+## Store publish (EAS)
+
+See **[STORE.md](./STORE.md)** for App Store / Google Play checklist. Config is ready (`eas.json`, bundle IDs); you still need Expo login + Apple/Google developer accounts before `eas build` / `eas submit`.
+
+Tracking map uses **WebView** (store-safe) rather than native `react-native-maps`.

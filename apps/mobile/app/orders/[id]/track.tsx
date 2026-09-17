@@ -2,24 +2,26 @@ import { Stack, useLocalSearchParams } from "expo-router";
 import { useCallback, useEffect, useRef, useState } from "react";
 import {
   ActivityIndicator,
-  Platform,
   ScrollView,
   StyleSheet,
   Text,
   View,
 } from "react-native";
-import MapView, { Marker, Polyline, PROVIDER_DEFAULT } from "react-native-maps";
 import { WebView } from "react-native-webview";
 import { fetchTracking, webTrackUrl } from "@/lib/api";
 import { formatCAD, STATUS_LABELS, TRACKING_STEPS } from "@/lib/format";
 import { colors, spacing } from "@/lib/theme";
 import type { TrackingPayload } from "@/lib/types";
 
+/**
+ * Prefer WebView for the tracking map in Expo Go and store builds.
+ * react-native-maps needs native config / Google Maps keys and can break
+ * managed builds; the web track page at supplyr-two.vercel.app stays green.
+ */
 export default function TrackOrderScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
   const [data, setData] = useState<TrackingPayload | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const [mapFailed, setMapFailed] = useState(false);
   const timer = useRef<ReturnType<typeof setInterval> | null>(null);
 
   const load = useCallback(async () => {
@@ -67,66 +69,18 @@ export default function TrackOrderScreen() {
   const statusIdx = TRACKING_STEPS.indexOf(
     data.status as (typeof TRACKING_STEPS)[number]
   );
-  const showWebFallback = mapFailed;
 
   return (
     <>
       <Stack.Screen options={{ title: "Live tracking" }} />
       <View style={styles.screen}>
         <View style={styles.mapWrap}>
-          {showWebFallback ? (
-            <WebView
-              source={{ uri: webTrackUrl(data.id) }}
-              style={{ flex: 1 }}
-              startInLoadingState
-            />
-          ) : (
-            <MapView
-              style={{ flex: 1 }}
-              provider={PROVIDER_DEFAULT}
-              initialRegion={{
-                latitude: data.destination.lat,
-                longitude: data.destination.lng,
-                latitudeDelta: 0.12,
-                longitudeDelta: 0.12,
-              }}
-            >
-              {data.route?.length > 1 ? (
-                <Polyline
-                  coordinates={data.route.map(([lat, lng]) => ({
-                    latitude: lat,
-                    longitude: lng,
-                  }))}
-                  strokeColor={colors.accent}
-                  strokeWidth={4}
-                />
-              ) : null}
-              <Marker
-                coordinate={{
-                  latitude: data.destination.lat,
-                  longitude: data.destination.lng,
-                }}
-                title="Delivery"
-                description={data.destination.address}
-                pinColor="#111113"
-              />
-              {data.driver ? (
-                <Marker
-                  coordinate={{
-                    latitude: data.driver.lat,
-                    longitude: data.driver.lng,
-                  }}
-                  title={data.courierLabel || "Supplyr Delivery"}
-                  description={
-                    data.etaMinutes != null
-                      ? `ETA ~${data.etaMinutes} min`
-                      : undefined
-                  }
-                  pinColor="#f5c518"
-                />
-              ) : null}
-            </MapView>
-          )}
+          <WebView
+            source={{ uri: webTrackUrl(data.id) }}
+            style={{ flex: 1 }}
+            startInLoadingState
+            allowsInlineMediaPlayback
+          />
         </View>
 
         <ScrollView
@@ -185,17 +139,7 @@ export default function TrackOrderScreen() {
           })}
 
           <Text style={styles.platformNote}>
-            Map:{" "}
-            {showWebFallback
-              ? "WebView fallback"
-              : `react-native-maps (${Platform.OS})`}
-            {" · "}
-            <Text
-              style={{ color: colors.accent }}
-              onPress={() => setMapFailed(true)}
-            >
-              Open web track
-            </Text>
+            Map: WebView (store-safe) · {webTrackUrl(data.id)}
           </Text>
         </ScrollView>
       </View>
