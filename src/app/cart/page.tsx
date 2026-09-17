@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useMemo } from "react";
-import { CategoryVisual } from "@/components/CategoryVisual";
+import { ProductMedia } from "@/components/ProductMedia";
 import { useCart } from "@/components/CartProvider";
 import { formatCAD, shippingCentsFor, taxCentsFor } from "@/lib/format";
 import productsData from "@/data/products.json";
@@ -68,13 +68,15 @@ export default function CartPage() {
             {lines.map(({ item, product, lineTotal }) => (
               <li
                 key={product.id}
-                className="flex flex-wrap items-center gap-4 rounded-xl border border-border bg-surface p-4 shadow-sm sm:flex-nowrap"
+                className="flex flex-col gap-4 rounded-xl border border-border bg-surface p-4 shadow-sm sm:flex-row sm:flex-nowrap sm:items-center"
               >
                 <div className="h-20 w-20 shrink-0 overflow-hidden rounded-lg border border-border">
-                  <CategoryVisual
+                  <ProductMedia
                     categoryId={product.categoryId}
+                    productId={product.id}
+                    alt={product.name}
                     className="h-full w-full"
-                    label={product.name}
+                    sizes="80px"
                   />
                 </div>
                 <div className="min-w-0 flex-1">
@@ -103,7 +105,7 @@ export default function CartPage() {
                     className="input-field w-16 py-2"
                   />
                 </label>
-                <p className="w-24 text-right font-display font-semibold text-ink">
+                <p className="font-display font-semibold text-ink sm:w-24 sm:text-right">
                   {formatCAD(lineTotal)}
                 </p>
                 <button

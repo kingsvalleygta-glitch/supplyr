@@ -7,7 +7,7 @@ const PALETTE: Record<
   "cat-lumber": {
     bg: "#e8dfd2",
     ink: "#5c4030",
-    accent: "#c4782a",
+    accent: "#f5c518",
     mid: "#b89a78",
   },
   "cat-fasteners": {
@@ -25,7 +25,7 @@ const PALETTE: Record<
   "cat-electrical": {
     bg: "#e8e4d4",
     ink: "#3d3a28",
-    accent: "#d4a017",
+    accent: "#f5c518",
     mid: "#c4b878",
   },
   "cat-plumbing": {
@@ -37,7 +37,7 @@ const PALETTE: Record<
   "cat-tools": {
     bg: "#e6e0d8",
     ink: "#3d3428",
-    accent: "#c4782a",
+    accent: "#f5c518",
     mid: "#a89070",
   },
   "cat-insulation": {
@@ -49,7 +49,7 @@ const PALETTE: Record<
   "cat-safety": {
     bg: "#ece6d4",
     ink: "#4a3d18",
-    accent: "#d4a017",
+    accent: "#f5c518",
     mid: "#c4b060",
   },
 };
@@ -57,7 +57,7 @@ const PALETTE: Record<
 const FALLBACK = {
   bg: "#e8e6e1",
   ink: "#3a4554",
-  accent: "#c4782a",
+  accent: "#f5c518",
   mid: "#9aa3b0",
 };
 

@@ -24,14 +24,8 @@ export function AddToCartButton({
     setTimeout(() => setAdded(false), 1600);
   }
 
-  return (
-    <div
-      className={`flex flex-wrap items-center gap-3 ${
-        sticky
-          ? "rounded-xl border border-border bg-surface p-4 shadow-md lg:sticky lg:top-28"
-          : ""
-      } ${className}`}
-    >
+  const controls = (
+    <>
       <label className="flex items-center gap-2 text-sm font-medium text-ink-muted">
         Qty
         <input
@@ -48,10 +42,31 @@ export function AddToCartButton({
         type="button"
         disabled={disabled}
         onClick={handleAdd}
-        className="btn-primary min-w-[9.5rem] flex-1 py-2.5 sm:flex-none"
+        className="btn-primary min-h-11 min-w-[9.5rem] flex-1 py-2.5 sm:flex-none"
       >
         {added ? "Added to cart" : disabled ? "Out of stock" : "Add to cart"}
       </button>
-    </div>
+    </>
+  );
+
+  return (
+    <>
+      <div
+        className={`flex flex-wrap items-center gap-3 ${
+          sticky
+            ? "hidden rounded-xl border border-border bg-surface p-4 shadow-md lg:flex lg:sticky lg:top-28"
+            : "flex"
+        } ${className}`}
+      >
+        {controls}
+      </div>
+      {sticky ? (
+        <div className="mobile-atc-bar lg:hidden">
+          <div className="mx-auto flex max-w-[80rem] items-center gap-3">
+            {controls}
+          </div>
+        </div>
+      ) : null}
+    </>
   );
 }

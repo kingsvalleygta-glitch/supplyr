@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { AddToCartButton } from "@/components/AddToCartButton";
-import { CategoryVisual } from "@/components/CategoryVisual";
+import { ProductMedia } from "@/components/ProductMedia";
 import { ProductCard } from "@/components/ProductCard";
 import { formatCAD } from "@/lib/format";
 import { getCategoryName } from "@/lib/repositories/categoryRepository";
@@ -29,8 +29,8 @@ export default async function ProductPage({ params }: Props) {
   const related = productRepository.getRelated(product, 4);
 
   return (
-    <div className="container-site py-8 sm:py-10">
-      <nav className="mb-8 text-sm text-ink-faint">
+    <div className="container-site py-6 pb-28 sm:py-10 lg:pb-10">
+      <nav className="mb-6 overflow-x-auto text-sm text-ink-faint whitespace-nowrap sm:mb-8">
         <Link href="/" className="hover:text-ink">
           Home
         </Link>
@@ -46,12 +46,15 @@ export default async function ProductPage({ params }: Props) {
         <span className="text-ink">{product.name}</span>
       </nav>
 
-      <div className="grid gap-10 lg:grid-cols-[1.05fr_0.95fr] lg:gap-14">
+      <div className="grid gap-8 lg:grid-cols-[1.05fr_0.95fr] lg:gap-14">
         <div className="overflow-hidden rounded-2xl border border-border bg-surface shadow-sm">
-          <CategoryVisual
+          <ProductMedia
             categoryId={product.categoryId}
+            productId={product.id}
+            alt={product.name}
             className="aspect-[4/3] w-full sm:aspect-[5/4] lg:min-h-[28rem]"
-            label={product.name}
+            priority
+            sizes="(max-width: 1024px) 100vw, 50vw"
           />
         </div>
 
@@ -128,21 +131,21 @@ export default async function ProductPage({ params }: Props) {
       </div>
 
       {related.length > 0 ? (
-        <section className="mt-16 border-t border-border pt-12 sm:mt-20">
+        <section className="mt-14 border-t border-border pt-10 sm:mt-20 sm:pt-12">
           <div className="mb-6 flex items-end justify-between gap-4">
-            <h2 className="font-display text-2xl font-bold tracking-tight text-ink">
+            <h2 className="font-display text-2xl font-bold tracking-tight text-ink sm:text-3xl">
               Related products
             </h2>
             {category ? (
               <Link
                 href={`/categories/${category.slug}`}
-                className="text-sm font-semibold text-accent hover:text-accent-hover"
+                className="hidden text-sm font-bold text-navy hover:underline sm:inline"
               >
-                More in {category.name} →
+                More in {category.name} <span className="text-accent">→</span>
               </Link>
             ) : null}
           </div>
-          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="grid grid-cols-2 gap-3 sm:gap-5 lg:grid-cols-4">
             {related.map((p) => (
               <ProductCard key={p.id} product={p} />
             ))}

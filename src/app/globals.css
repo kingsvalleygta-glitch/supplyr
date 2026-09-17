@@ -1,30 +1,30 @@
 @import "tailwindcss";
 
 :root {
-  /* Surfaces */
-  --background: #f6f5f2;
-  --foreground: #121820;
+  /* Surfaces — clean retail light */
+  --background: #f4f4f5;
+  --foreground: #111113;
   --surface: #ffffff;
-  --surface-muted: #eeece8;
+  --surface-muted: #ebebec;
   --surface-elevated: #ffffff;
 
-  /* Brand ink / navy */
-  --navy: #0e1a2b;
-  --navy-mid: #16263d;
-  --navy-soft: #243552;
+  /* Brand — near-black / charcoal (kept as --navy for class compatibility) */
+  --navy: #111113;
+  --navy-mid: #1c1c1f;
+  --navy-soft: #2a2a2e;
 
-  /* Accent — warm copper / amber */
-  --accent: #c4782a;
-  --accent-hover: #a96420;
-  --accent-soft: #f4e6d4;
-  --accent-fg: #1a1208;
+  /* Accent — high-vis construction yellow */
+  --accent: #f5c518;
+  --accent-hover: #e0b00f;
+  --accent-soft: #fff6cc;
+  --accent-fg: #111113;
 
   /* Neutrals */
-  --ink: #121820;
-  --ink-muted: #5a6573;
-  --ink-faint: #8b95a3;
-  --border: #e0ddd6;
-  --border-strong: #c9c5bc;
+  --ink: #111113;
+  --ink-muted: #5c5c66;
+  --ink-faint: #8b8b96;
+  --border: #e4e4e7;
+  --border-strong: #c8c8ce;
 
   /* Semantic */
   --success: #1b6b45;
@@ -40,10 +40,10 @@
   --radius-xl: 1.25rem;
 
   /* Shadows */
-  --shadow-sm: 0 1px 2px rgb(14 26 43 / 0.05);
-  --shadow-md: 0 4px 14px rgb(14 26 43 / 0.07), 0 1px 3px rgb(14 26 43 / 0.04);
-  --shadow-lg: 0 16px 40px rgb(14 26 43 / 0.1), 0 4px 12px rgb(14 26 43 / 0.05);
-  --shadow-focus: 0 0 0 3px rgb(196 120 42 / 0.35);
+  --shadow-sm: 0 1px 2px rgb(17 17 19 / 0.05);
+  --shadow-md: 0 4px 14px rgb(17 17 19 / 0.07), 0 1px 3px rgb(17 17 19 / 0.04);
+  --shadow-lg: 0 16px 40px rgb(17 17 19 / 0.1), 0 4px 12px rgb(17 17 19 / 0.05);
+  --shadow-focus: 0 0 0 3px rgb(245 197 24 / 0.45);
 
   /* Layout */
   --container: 80rem;
@@ -95,8 +95,8 @@ a {
 }
 
 ::selection {
-  background: var(--accent-soft);
-  color: var(--ink);
+  background: var(--accent);
+  color: var(--accent-fg);
 }
 
 :focus-visible {
@@ -113,7 +113,7 @@ a {
   width: 100%;
   max-width: var(--container);
   margin-inline: auto;
-  padding-inline: 1.25rem;
+  padding-inline: 1rem;
 }
 
 @media (min-width: 640px) {
@@ -128,6 +128,7 @@ a {
   }
 }
 
+/* Primary CTAs — high-vis yellow on near-black text */
 .btn-primary {
   display: inline-flex;
   align-items: center;
@@ -137,8 +138,8 @@ a {
   background: var(--accent);
   color: var(--accent-fg);
   font-size: 0.875rem;
-  font-weight: 600;
-  padding: 0.7rem 1.25rem;
+  font-weight: 700;
+  padding: 0.75rem 1.35rem;
   box-shadow: var(--shadow-sm);
   transition: background 0.15s ease, transform 0.15s ease;
 }
@@ -165,7 +166,7 @@ a {
   color: var(--ink);
   font-size: 0.875rem;
   font-weight: 600;
-  padding: 0.7rem 1.25rem;
+  padding: 0.75rem 1.35rem;
   transition: background 0.15s ease, border-color 0.15s ease;
 }
 
@@ -174,6 +175,7 @@ a {
   border-color: var(--ink-faint);
 }
 
+/* Solid charcoal / near-black button */
 .btn-navy {
   display: inline-flex;
   align-items: center;
@@ -184,7 +186,7 @@ a {
   color: #fff;
   font-size: 0.875rem;
   font-weight: 600;
-  padding: 0.7rem 1.25rem;
+  padding: 0.75rem 1.35rem;
   transition: background 0.15s ease;
 }
 
@@ -197,14 +199,20 @@ a {
   border-radius: var(--radius-md);
   border: 1px solid var(--border-strong);
   background: var(--surface);
-  padding: 0.625rem 0.875rem;
-  font-size: 0.875rem;
+  padding: 0.7rem 0.875rem;
+  font-size: 1rem;
   color: var(--ink);
   transition: border-color 0.15s ease, box-shadow 0.15s ease;
 }
 
+@media (min-width: 640px) {
+  .input-field {
+    font-size: 0.875rem;
+  }
+}
+
 .input-field:focus {
-  border-color: var(--accent);
+  border-color: var(--navy);
   box-shadow: var(--shadow-focus);
   outline: none;
 }
@@ -222,7 +230,7 @@ a {
   border-radius: 999px;
   padding: 0.2rem 0.6rem;
   font-size: 0.7rem;
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: 0.02em;
 }
 
@@ -234,4 +242,23 @@ a {
 .badge-stock-out {
   background: var(--danger-soft);
   color: var(--danger);
+}
+
+/* Mobile sticky ATC bar (PDP) */
+.mobile-atc-bar {
+  position: fixed;
+  inset-inline: 0;
+  bottom: 0;
+  z-index: 30;
+  border-top: 1px solid var(--border);
+  background: rgb(255 255 255 / 0.96);
+  backdrop-filter: blur(10px);
+  padding: 0.75rem 1rem calc(0.75rem + env(safe-area-inset-bottom));
+  box-shadow: 0 -8px 24px rgb(17 17 19 / 0.08);
+}
+
+@media (min-width: 1024px) {
+  .mobile-atc-bar {
+    display: none;
+  }
 }

@@ -16,6 +16,26 @@ const NAV = [
   { href: "/categories/safety-ppe", label: "Safety" },
 ];
 
+function LogoMark({ className = "" }: { className?: string }) {
+  return (
+    <span
+      className={`relative flex h-9 w-9 items-center justify-center rounded-md bg-navy shadow-sm ${className}`}
+      aria-hidden
+    >
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+        <path
+          d="M4 18V8l8-4 8 4v10H4z"
+          stroke="#fff"
+          strokeWidth="1.75"
+          strokeLinejoin="round"
+        />
+        <path d="M4 18h16M10 18v-5h4v5" stroke="#fff" strokeWidth="1.75" strokeLinejoin="round" />
+        <rect x="9" y="10" width="6" height="2.5" rx="0.5" fill="#f5c518" />
+      </svg>
+    </span>
+  );
+}
+
 export function Header() {
   const { itemCount } = useCart();
   const router = useRouter();
@@ -27,8 +47,12 @@ export function Header() {
     const onKey = (e: KeyboardEvent) => {
       if (e.key === "Escape") setMobileOpen(false);
     };
+    document.body.style.overflow = "hidden";
     window.addEventListener("keydown", onKey);
-    return () => window.removeEventListener("keydown", onKey);
+    return () => {
+      document.body.style.overflow = "";
+      window.removeEventListener("keydown", onKey);
+    };
   }, [mobileOpen]);
 
   function onSearch(e: FormEvent) {
@@ -41,28 +65,23 @@ export function Header() {
   return (
     <header className="sticky top-0 z-40 border-b border-border bg-surface/95 backdrop-blur-md">
       <div className="border-b border-white/10 bg-navy text-white">
-        <div className="container-site flex items-center justify-between gap-4 py-2 text-xs sm:text-sm">
-          <p className="text-white/80">
-            <span className="font-medium text-accent">GTA delivery</span>
-            <span className="mx-2 text-white/30">·</span>
+        <div className="container-site flex items-center justify-between gap-3 py-2 text-xs sm:text-sm">
+          <p className="min-w-0 truncate text-white/80">
+            <span className="font-semibold text-accent">GTA delivery</span>
+            <span className="mx-2 text-white/25">·</span>
             Trade pricing
-            <span className="mx-2 hidden text-white/30 sm:inline">·</span>
-            <span className="hidden sm:inline">Owned by Kings Valley Homes</span>
+            <span className="mx-2 hidden text-white/25 sm:inline">·</span>
+            <span className="hidden sm:inline">Kings Valley Homes</span>
           </p>
-          <p className="shrink-0 text-white/55">CAD · en-CA</p>
+          <p className="shrink-0 text-white/50">CAD · en-CA</p>
         </div>
       </div>
 
-      <div className="container-site flex flex-wrap items-center gap-3 py-3.5 sm:gap-4">
-        <Link href="/" className="group flex items-center gap-2.5">
-          <span
-            className="flex h-9 w-9 items-center justify-center rounded-md bg-navy text-sm font-bold tracking-tight text-white shadow-sm"
-            aria-hidden
-          >
-            S
-          </span>
+      <div className="container-site flex items-center gap-2 py-3 sm:gap-4 sm:py-3.5">
+        <Link href="/" className="group flex shrink-0 items-center gap-2.5">
+          <LogoMark />
           <span className="flex flex-col leading-none">
-            <span className="font-display text-xl font-bold tracking-tight text-ink">
+            <span className="font-display text-xl font-bold tracking-tight text-ink sm:text-[1.35rem]">
               Supply<span className="text-accent">r</span>
             </span>
             <span className="mt-0.5 hidden text-[10px] font-semibold uppercase tracking-[0.14em] text-ink-faint sm:block">
@@ -73,7 +92,7 @@ export function Header() {
 
         <form
           onSubmit={onSearch}
-          className="order-3 flex w-full flex-1 gap-2 sm:order-none sm:mx-2 sm:w-auto lg:mx-6"
+          className="mx-1 hidden min-w-0 flex-1 gap-2 sm:mx-2 sm:flex lg:mx-6"
         >
           <div className="relative flex-1">
             <span className="pointer-events-none absolute inset-y-0 left-3 flex items-center text-ink-faint">
@@ -91,7 +110,7 @@ export function Header() {
               aria-label="Search products"
             />
           </div>
-          <button type="submit" className="btn-navy hidden shrink-0 sm:inline-flex">
+          <button type="submit" className="btn-navy hidden shrink-0 md:inline-flex">
             Search
           </button>
         </form>
@@ -99,7 +118,24 @@ export function Header() {
         <div className="ml-auto flex items-center gap-2">
           <button
             type="button"
-            className="inline-flex h-10 w-10 items-center justify-center rounded-md border border-border text-ink hover:bg-surface-muted lg:hidden"
+            className="inline-flex h-11 w-11 items-center justify-center rounded-md border border-border text-ink hover:bg-surface-muted sm:hidden"
+            aria-label="Search"
+            onClick={() => {
+              setMobileOpen(true);
+              requestAnimationFrame(() => {
+                document.getElementById("mobile-search-input")?.focus();
+              });
+            }}
+          >
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden>
+              <circle cx="11" cy="11" r="7" stroke="currentColor" strokeWidth="2" />
+              <path d="M20 20l-3.5-3.5" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
+            </svg>
+          </button>
+
+          <button
+            type="button"
+            className="inline-flex h-11 w-11 items-center justify-center rounded-md border border-border text-ink hover:bg-surface-muted lg:hidden"
             aria-expanded={mobileOpen}
             aria-controls="mobile-nav"
             aria-label={mobileOpen ? "Close menu" : "Open menu"}
@@ -118,7 +154,7 @@ export function Header() {
 
           <Link
             href="/cart"
-            className="inline-flex items-center gap-2.5 rounded-md border border-border bg-surface px-3 py-2 text-sm font-semibold text-ink shadow-sm transition hover:border-border-strong hover:bg-surface-muted"
+            className="inline-flex h-11 items-center gap-2 rounded-md border border-border bg-surface px-3 text-sm font-semibold text-ink shadow-sm transition hover:border-border-strong hover:bg-surface-muted"
           >
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden>
               <path
@@ -151,7 +187,7 @@ export function Header() {
         ))}
         <Link
           href="/search"
-          className="rounded-md px-3 py-1.5 text-sm font-semibold text-accent hover:bg-accent-soft"
+          className="rounded-md px-3 py-1.5 text-sm font-bold text-navy hover:bg-accent-soft"
         >
           All products
         </Link>
@@ -160,15 +196,29 @@ export function Header() {
       {mobileOpen ? (
         <div
           id="mobile-nav"
-          className="border-t border-border bg-surface lg:hidden"
+          className="absolute inset-x-0 top-full max-h-[min(80vh,560px)] overflow-y-auto border-t border-border bg-surface shadow-lg lg:hidden"
         >
-          <nav className="container-site grid gap-1 py-3">
+          <form onSubmit={onSearch} className="container-site flex gap-2 border-b border-border py-3 sm:hidden">
+            <input
+              id="mobile-search-input"
+              type="search"
+              value={q}
+              onChange={(e) => setQ(e.target.value)}
+              placeholder="Search products…"
+              className="input-field flex-1 py-2.5"
+              aria-label="Search products"
+            />
+            <button type="submit" className="btn-navy shrink-0 px-4">
+              Go
+            </button>
+          </form>
+          <nav className="container-site grid gap-0.5 py-3">
             {NAV.map((item) => (
               <Link
                 key={item.href}
                 href={item.href}
                 onClick={() => setMobileOpen(false)}
-                className="rounded-md px-3 py-2.5 text-sm font-medium text-ink hover:bg-surface-muted"
+                className="rounded-md px-3 py-3 text-base font-medium text-ink hover:bg-surface-muted"
               >
                 {item.label}
               </Link>
@@ -176,7 +226,7 @@ export function Header() {
             <Link
               href="/search"
               onClick={() => setMobileOpen(false)}
-              className="rounded-md px-3 py-2.5 text-sm font-semibold text-accent hover:bg-accent-soft"
+              className="rounded-md px-3 py-3 text-base font-bold text-navy hover:bg-accent-soft"
             >
               All products
             </Link>

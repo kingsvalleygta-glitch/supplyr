@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
-import { CategoryVisual } from "@/components/CategoryVisual";
+import { ProductMedia } from "@/components/ProductMedia";
 import { ProductCard } from "@/components/ProductCard";
 import { ProductFilters } from "@/components/ProductFilters";
 import { categoryRepository } from "@/lib/repositories/categoryRepository";
@@ -36,10 +36,12 @@ export default async function CategoryPage({ params, searchParams }: Props) {
       <div className="border-b border-border bg-surface">
         <div className="container-site grid gap-6 py-8 sm:grid-cols-[180px_1fr] sm:items-center sm:py-10">
           <div className="overflow-hidden rounded-xl border border-border shadow-sm">
-            <CategoryVisual
+            <ProductMedia
               categoryId={category.id}
+              alt={category.name}
               className="aspect-[4/3] w-full"
-              label={category.name}
+              sizes="(max-width: 640px) 100vw, 180px"
+              priority
             />
           </div>
           <div>
@@ -73,7 +75,7 @@ export default async function CategoryPage({ params, searchParams }: Props) {
                 </p>
               </div>
             ) : (
-              <div className="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
+              <div className="grid grid-cols-2 gap-3 sm:gap-5 xl:grid-cols-3">
                 {products.map((p) => (
                   <ProductCard key={p.id} product={p} />
                 ))}

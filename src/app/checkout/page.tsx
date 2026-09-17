@@ -101,8 +101,8 @@ export default function CheckoutPage() {
         Demo checkout — no real charges. Delivery estimates for the Greater
         Toronto Area.
       </p>
-      <form onSubmit={onSubmit} className="mt-8 grid gap-8 lg:grid-cols-[1fr_340px]">
-        <div className="space-y-8 rounded-xl border border-border bg-surface p-6 shadow-sm sm:p-8">
+      <form onSubmit={onSubmit} className="mt-8 grid gap-6 lg:grid-cols-[1fr_340px] lg:gap-8">
+        <div className="space-y-8 rounded-xl border border-border bg-surface p-4 shadow-sm sm:p-8">
           <fieldset className="grid gap-4 sm:grid-cols-2">
             <legend className="mb-3 font-display text-base font-semibold text-ink sm:col-span-2">
               Jobsite / billing contact
