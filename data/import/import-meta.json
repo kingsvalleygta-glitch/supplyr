@@ -1,162 +1,19 @@
 {
-  "imported": 5162,
+  "imported": 5457,
   "categories": 15,
+  "source": "https://flooreno.ca WooCommerce Store API via Apify web-fetch",
   "catalogTotalReported": 17236,
-  "remainingApprox": 12074,
-  "source": "https://flooreno.ca WooCommerce Store API via Apify apify/web-fetch",
-  "strategy": "Category pagination + popularity + orderby=id. High id-order pages target long-tail products.",
-  "pop100PagesHave": [
+  "note": "Partial sync ~5457. Past 5k; orderby=id long-tail pages working well toward 10k.",
+  "remainingApprox": 11779,
+  "idAscPagesHave": [
     1,
     2,
     3,
     4,
     5,
     6,
-    7,
-    9,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    21,
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28,
-    29,
-    30,
-    31,
-    32,
-    37,
-    39,
-    41
-  ],
-  "idAscPagesHave": [
-    2,
-    3,
-    4
-  ],
-  "pop100PagesMissingSample": [
-    8,
-    10,
-    20,
-    33,
-    34,
-    35,
-    36,
-    38,
-    40,
-    42,
-    43,
-    44,
-    45,
-    46,
-    47,
-    48,
-    49,
     50,
-    51,
-    52,
-    53,
-    54,
-    55,
-    56,
-    57,
-    58,
-    59,
-    60,
-    61,
-    62
+    100
   ],
-  "categoryPagesHave": {
-    "14582": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
-    ],
-    "14594": [
-      1
-    ],
-    "14596": [
-      30
-    ],
-    "14612": [
-      6
-    ],
-    "14644": [
-      1,
-      2,
-      3
-    ],
-    "14656": [
-      1,
-      2
-    ],
-    "14663": [
-      2,
-      5
-    ],
-    "14674": [
-      1
-    ],
-    "14699": [
-      37
-    ],
-    "14714": [
-      7
-    ],
-    "14758": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
-    ],
-    "14764": [
-      2
-    ],
-    "14767": [
-      5
-    ],
-    "14769": [
-      4
-    ],
-    "14770": [
-      1
-    ],
-    "14784": [
-      4
-    ],
-    "14831": [
-      1
-    ],
-    "14996": [
-      1
-    ],
-    "15003": [
-      24
-    ],
-    "15288": [
-      1
-    ]
-  },
-  "updatedAt": "2026-09-17T18:10:56.133134-04:00",
-  "note": "Partial sync ~5162. Past 5k milestone; continuing orderby=id toward 10k."
+  "updatedAt": "2026-09-17T18:13:22.596196-04:00"
 }
