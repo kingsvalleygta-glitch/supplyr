@@ -2,7 +2,8 @@ import { NextResponse } from "next/server";
 
 export async function POST(request: Request) {
   const form = await request.formData();
-  const password = String(form.get("password") || "");
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const password = String((form as any).get("password") || "");
   const expected = process.env.ADMIN_PASSWORD;
 
   const url = new URL(request.url);

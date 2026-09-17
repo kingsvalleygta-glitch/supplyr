@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server";
+import { CORS_HEADERS, corsOptions } from "@/lib/cors";
 import { orderRepository } from "@/lib/repositories/orderRepository";
 import {
   advanceTrackingSimulation,
@@ -8,13 +9,17 @@ import {
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
+export function OPTIONS() {
+  return corsOptions();
+}
+
 type Ctx = { params: Promise<{ id: string }> };
 
 export async function GET(_request: Request, ctx: Ctx) {
   const { id } = await ctx.params;
   const existing = await orderRepository.getByIdAsync(id);
   if (!existing) {
-    return NextResponse.json({ error: "Order not found" }, { status: 404 });
+    return NextResponse.json({ error: "Order not found" }, { status: 404, headers: CORS_HEADERS });
   }
 
   // Backfill tracking for any pre-tracking orders
@@ -42,5 +47,5 @@ export async function GET(_request: Request, ctx: Ctx) {
     await orderRepository.updateAsync(advanced);
   }
 
-  return NextResponse.json(trackingPublicPayload(advanced));
+  return NextResponse.json(trackingPublicPayload(advanced), { headers: CORS_HEADERS });
 }

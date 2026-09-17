@@ -47,3 +47,8 @@ data/orders.json
 
 # Pro lead store
 data/pro-leads.json
+
+# Expo mobile
+apps/mobile/node_modules/
+apps/mobile/.expo/
+apps/mobile/dist/

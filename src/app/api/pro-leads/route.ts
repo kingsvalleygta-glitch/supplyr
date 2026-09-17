@@ -1,8 +1,13 @@
 import { NextResponse } from "next/server";
+import { CORS_HEADERS, corsOptions } from "@/lib/cors";
 import { promises as fs } from "fs";
 import path from "path";
 
 export const runtime = "nodejs";
+
+export function OPTIONS() {
+  return corsOptions();
+}
 
 type ProLead = {
   id: string;
@@ -31,7 +36,7 @@ export async function POST(req: Request) {
   try {
     body = await req.json();
   } catch {
-    return NextResponse.json({ error: "Invalid JSON" }, { status: 400 });
+    return NextResponse.json({ error: "Invalid JSON" }, { status: 400, headers: CORS_HEADERS });
   }
 
   const name = String(body.name ?? "").trim();
@@ -43,7 +48,7 @@ export async function POST(req: Request) {
   if (!name || !email || !company) {
     return NextResponse.json(
       { error: "Name, company, and email are required." },
-      { status: 400 }
+      { status: 400, headers: CORS_HEADERS }
     );
   }
 
@@ -62,7 +67,7 @@ export async function POST(req: Request) {
   await fs.mkdir(path.dirname(DATA_PATH), { recursive: true });
   await fs.writeFile(DATA_PATH, JSON.stringify(leads, null, 2), "utf8");
 
-  const res = NextResponse.json({ ok: true, id: lead.id });
+  const res = NextResponse.json({ ok: true, id: lead.id }, { headers: CORS_HEADERS });
   res.cookies.set("supplyr_pro", "1", {
     httpOnly: false,
     sameSite: "lax",

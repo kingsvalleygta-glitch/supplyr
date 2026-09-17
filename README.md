@@ -95,3 +95,18 @@ See [ARCHITECTURE.md](./ARCHITECTURE.md) for hybrid → marketplace extension po
 ## License
 
 Private / proprietary to Kings Valley Homes unless otherwise stated.
+
+## Mobile app (Expo)
+
+Expo Router app for **iOS and Android** (Expo Go):
+
+```bash
+cd apps/mobile
+npm install
+npx expo start
+```
+
+See [apps/mobile/README.md](./apps/mobile/README.md) for Expo Go install (iPhone + Android), QR scanning, and `EXPO_PUBLIC_API_BASE_URL`.
+
+JSON APIs used by mobile: `GET /api/products`, `GET /api/products/[slug]`, `GET /api/categories`, `POST /api/orders`, `GET /api/orders/[id]`, `GET /api/orders/[id]/tracking`, `POST /api/pro-leads`.
+
