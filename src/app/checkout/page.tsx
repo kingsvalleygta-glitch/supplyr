@@ -78,9 +78,14 @@ export default function CheckoutPage() {
 
   if (lines.length === 0) {
     return (
-      <div className="mx-auto max-w-xl px-4 py-16 text-center">
-        <h1 className="text-2xl font-bold">Nothing to check out</h1>
-        <Link href="/search" className="mt-4 inline-block text-amber-700 hover:underline">
+      <div className="container-site max-w-xl py-20 text-center">
+        <h1 className="font-display text-2xl font-bold text-ink">
+          Nothing to check out
+        </h1>
+        <p className="mt-2 text-sm text-ink-muted">
+          Add materials to your cart before placing an order.
+        </p>
+        <Link href="/search" className="btn-primary mt-6 inline-flex">
           Browse products
         </Link>
       </div>
@@ -88,70 +93,78 @@ export default function CheckoutPage() {
   }
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-8">
-      <h1 className="text-3xl font-bold text-slate-900">Checkout</h1>
-      <p className="mt-2 text-sm text-slate-600">
-        Mock payment only — no real charges. Delivery placeholders for Greater Toronto Area.
+    <div className="container-site py-8 sm:py-10">
+      <h1 className="font-display text-3xl font-bold tracking-tight text-ink">
+        Checkout
+      </h1>
+      <p className="mt-2 text-sm text-ink-muted">
+        Demo checkout — no real charges. Delivery estimates for the Greater
+        Toronto Area.
       </p>
-      <form onSubmit={onSubmit} className="mt-8 grid gap-8 lg:grid-cols-[1fr_320px]">
-        <div className="space-y-6 rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+      <form onSubmit={onSubmit} className="mt-8 grid gap-8 lg:grid-cols-[1fr_340px]">
+        <div className="space-y-8 rounded-xl border border-border bg-surface p-6 shadow-sm sm:p-8">
           <fieldset className="grid gap-4 sm:grid-cols-2">
-            <legend className="mb-2 text-sm font-semibold text-slate-900 sm:col-span-2">
+            <legend className="mb-3 font-display text-base font-semibold text-ink sm:col-span-2">
               Jobsite / billing contact
             </legend>
-            <label className="text-xs font-medium text-slate-600 sm:col-span-2">
+            <label className="text-xs font-semibold uppercase tracking-wide text-ink-muted sm:col-span-2">
               Company
-              <input name="company" required className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" />
+              <input name="company" required className="input-field mt-1.5 normal-case tracking-normal" />
             </label>
-            <label className="text-xs font-medium text-slate-600">
+            <label className="text-xs font-semibold uppercase tracking-wide text-ink-muted">
               Contact name
-              <input name="contactName" required className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" />
+              <input name="contactName" required className="input-field mt-1.5 normal-case tracking-normal" />
             </label>
-            <label className="text-xs font-medium text-slate-600">
+            <label className="text-xs font-semibold uppercase tracking-wide text-ink-muted">
               Phone
-              <input name="phone" type="tel" required className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" />
+              <input name="phone" type="tel" required className="input-field mt-1.5 normal-case tracking-normal" />
             </label>
-            <label className="text-xs font-medium text-slate-600 sm:col-span-2">
+            <label className="text-xs font-semibold uppercase tracking-wide text-ink-muted sm:col-span-2">
               Email
-              <input name="email" type="email" required className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" />
+              <input name="email" type="email" required className="input-field mt-1.5 normal-case tracking-normal" />
             </label>
           </fieldset>
           <fieldset className="grid gap-4 sm:grid-cols-2">
-            <legend className="mb-2 text-sm font-semibold text-slate-900 sm:col-span-2">
+            <legend className="mb-3 font-display text-base font-semibold text-ink sm:col-span-2">
               Delivery address (GTA)
             </legend>
-            <label className="text-xs font-medium text-slate-600 sm:col-span-2">
+            <label className="text-xs font-semibold uppercase tracking-wide text-ink-muted sm:col-span-2">
               Address line 1
-              <input name="address1" required className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" />
+              <input name="address1" required className="input-field mt-1.5 normal-case tracking-normal" />
             </label>
-            <label className="text-xs font-medium text-slate-600 sm:col-span-2">
+            <label className="text-xs font-semibold uppercase tracking-wide text-ink-muted sm:col-span-2">
               Address line 2
-              <input name="address2" className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" />
+              <input name="address2" className="input-field mt-1.5 normal-case tracking-normal" />
             </label>
-            <label className="text-xs font-medium text-slate-600">
+            <label className="text-xs font-semibold uppercase tracking-wide text-ink-muted">
               City
-              <input name="city" required defaultValue="Toronto" className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" />
+              <input name="city" required defaultValue="Toronto" className="input-field mt-1.5 normal-case tracking-normal" />
             </label>
-            <label className="text-xs font-medium text-slate-600">
+            <label className="text-xs font-semibold uppercase tracking-wide text-ink-muted">
               Province
-              <input name="province" required defaultValue="ON" className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" />
+              <input name="province" required defaultValue="ON" className="input-field mt-1.5 normal-case tracking-normal" />
             </label>
-            <label className="text-xs font-medium text-slate-600">
+            <label className="text-xs font-semibold uppercase tracking-wide text-ink-muted">
               Postal code
-              <input name="postalCode" required placeholder="M5V 2T6" className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" />
+              <input name="postalCode" required placeholder="M5V 2T6" className="input-field mt-1.5 normal-case tracking-normal" />
             </label>
-            <label className="text-xs font-medium text-slate-600 sm:col-span-2">
+            <label className="text-xs font-semibold uppercase tracking-wide text-ink-muted sm:col-span-2">
               Delivery notes
-              <textarea name="deliveryNotes" rows={2} className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" placeholder="Gate code, crane window, site contact…" />
+              <textarea
+                name="deliveryNotes"
+                rows={2}
+                className="input-field mt-1.5 normal-case tracking-normal"
+                placeholder="Gate code, crane window, site contact…"
+              />
             </label>
           </fieldset>
           <fieldset>
-            <legend className="mb-2 text-sm font-semibold text-slate-900">
-              Payment (mock)
+            <legend className="mb-3 font-display text-base font-semibold text-ink">
+              Payment (demo)
             </legend>
             <select
               name="paymentMethod"
-              className="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm"
+              className="input-field"
               defaultValue="mock_card"
             >
               <option value="mock_card">Mock credit card</option>
@@ -159,42 +172,47 @@ export default function CheckoutPage() {
               <option value="mock_etransfer">Mock Interac e-Transfer</option>
             </select>
           </fieldset>
-          {error ? <p className="text-sm text-rose-600">{error}</p> : null}
+          {error ? <p className="text-sm font-medium text-danger">{error}</p> : null}
         </div>
-        <aside className="h-fit rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
-          <h2 className="font-semibold text-slate-900">Summary</h2>
-          <ul className="mt-3 space-y-2 text-sm text-slate-600">
+        <aside className="h-fit rounded-xl border border-border bg-surface p-6 shadow-sm lg:sticky lg:top-28">
+          <h2 className="font-display text-lg font-semibold text-ink">Summary</h2>
+          <ul className="mt-4 space-y-3 text-sm text-ink-muted">
             {lines.map(({ item, product }) => (
-              <li key={product.id} className="flex justify-between gap-2">
-                <span>
-                  {product.name} × {item.quantity}
+              <li key={product.id} className="flex justify-between gap-3">
+                <span className="min-w-0">
+                  <span className="line-clamp-1 text-ink">{product.name}</span>
+                  <span className="text-ink-faint"> × {item.quantity}</span>
                 </span>
-                <span>{formatCAD(product.priceCents * item.quantity)}</span>
+                <span className="shrink-0 font-medium text-ink">
+                  {formatCAD(product.priceCents * item.quantity)}
+                </span>
               </li>
             ))}
           </ul>
-          <dl className="mt-4 space-y-2 border-t border-slate-100 pt-4 text-sm">
+          <dl className="mt-5 space-y-2 border-t border-border pt-4 text-sm">
             <div className="flex justify-between">
-              <dt>Subtotal</dt>
-              <dd>{formatCAD(subtotal)}</dd>
+              <dt className="text-ink-muted">Subtotal</dt>
+              <dd className="font-medium">{formatCAD(subtotal)}</dd>
             </div>
             <div className="flex justify-between">
-              <dt>Delivery</dt>
-              <dd>{shipping === 0 ? "Free" : formatCAD(shipping)}</dd>
+              <dt className="text-ink-muted">Delivery</dt>
+              <dd className="font-medium">
+                {shipping === 0 ? "Free" : formatCAD(shipping)}
+              </dd>
             </div>
             <div className="flex justify-between">
-              <dt>HST</dt>
-              <dd>{formatCAD(tax)}</dd>
+              <dt className="text-ink-muted">HST</dt>
+              <dd className="font-medium">{formatCAD(tax)}</dd>
             </div>
-            <div className="flex justify-between text-base font-bold">
+            <div className="flex justify-between pt-2 text-base font-bold">
               <dt>Total</dt>
-              <dd>{formatCAD(total)}</dd>
+              <dd className="font-display">{formatCAD(total)}</dd>
             </div>
           </dl>
           <button
             type="submit"
             disabled={submitting}
-            className="mt-5 w-full rounded-lg bg-amber-500 py-3 text-sm font-semibold text-slate-900 hover:bg-amber-400 disabled:opacity-60"
+            className="btn-primary mt-6 w-full py-3 disabled:opacity-60"
           >
             {submitting ? "Placing order…" : "Place order"}
           </button>

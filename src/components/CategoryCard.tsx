@@ -1,19 +1,27 @@
 import Link from "next/link";
 import type { Category } from "@/lib/types";
+import { CategoryVisual } from "@/components/CategoryVisual";
 
 export function CategoryCard({ category }: { category: Category }) {
   return (
     <Link
       href={`/categories/${category.slug}`}
-      className="flex items-start gap-3 rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-amber-400 hover:shadow-md"
+      className="group overflow-hidden rounded-xl border border-border bg-surface shadow-sm transition duration-200 hover:-translate-y-0.5 hover:border-accent/40 hover:shadow-md"
     >
-      <span className="flex h-12 w-12 items-center justify-center rounded-lg bg-slate-100 text-2xl">
-        {category.imageEmoji}
-      </span>
-      <div>
-        <h3 className="font-semibold text-slate-900">{category.name}</h3>
-        <p className="mt-1 text-sm text-slate-600 line-clamp-2">
+      <CategoryVisual
+        categoryId={category.id}
+        className="aspect-[16/9] w-full"
+        label={category.name}
+      />
+      <div className="p-4 sm:p-5">
+        <h3 className="font-display text-lg font-semibold text-ink group-hover:text-accent-hover">
+          {category.name}
+        </h3>
+        <p className="mt-1.5 line-clamp-2 text-sm leading-relaxed text-ink-muted">
           {category.description}
+        </p>
+        <p className="mt-3 text-xs font-semibold uppercase tracking-[0.12em] text-accent">
+          Shop category →
         </p>
       </div>
     </Link>

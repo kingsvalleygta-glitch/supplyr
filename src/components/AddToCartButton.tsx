@@ -7,10 +7,12 @@ export function AddToCartButton({
   productId,
   disabled,
   className = "",
+  sticky = false,
 }: {
   productId: string;
   disabled?: boolean;
   className?: string;
+  sticky?: boolean;
 }) {
   const { addItem } = useCart();
   const [qty, setQty] = useState(1);
@@ -23,8 +25,14 @@ export function AddToCartButton({
   }
 
   return (
-    <div className={`flex flex-wrap items-center gap-3 ${className}`}>
-      <label className="flex items-center gap-2 text-sm text-slate-700">
+    <div
+      className={`flex flex-wrap items-center gap-3 ${
+        sticky
+          ? "rounded-xl border border-border bg-surface p-4 shadow-md lg:sticky lg:top-28"
+          : ""
+      } ${className}`}
+    >
+      <label className="flex items-center gap-2 text-sm font-medium text-ink-muted">
         Qty
         <input
           type="number"
@@ -33,16 +41,16 @@ export function AddToCartButton({
           value={qty}
           disabled={disabled}
           onChange={(e) => setQty(Math.max(1, Number(e.target.value) || 1))}
-          className="w-20 rounded-lg border border-slate-300 px-2 py-2 text-sm"
+          className="input-field w-20 py-2.5"
         />
       </label>
       <button
         type="button"
         disabled={disabled}
         onClick={handleAdd}
-        className="rounded-lg bg-amber-500 px-5 py-2.5 text-sm font-semibold text-slate-900 hover:bg-amber-400 disabled:cursor-not-allowed disabled:bg-slate-200 disabled:text-slate-500"
+        className="btn-primary min-w-[9.5rem] flex-1 py-2.5 sm:flex-none"
       >
-        {added ? "Added to cart" : "Add to cart"}
+        {added ? "Added to cart" : disabled ? "Out of stock" : "Add to cart"}
       </button>
     </div>
   );

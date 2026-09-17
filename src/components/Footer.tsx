@@ -2,23 +2,22 @@ import Link from "next/link";
 
 export function Footer() {
   return (
-    <footer className="mt-auto border-t border-slate-200 bg-slate-900 text-slate-300">
-      <div className="mx-auto grid max-w-6xl gap-8 px-4 py-10 sm:grid-cols-3">
-        <div>
-          <p className="text-lg font-semibold text-white">
-            Supply<span className="text-amber-500">r</span>
+    <footer className="mt-auto border-t border-border bg-navy text-white/75">
+      <div className="container-site grid gap-10 py-12 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="sm:col-span-2 lg:col-span-1">
+          <p className="font-display text-xl font-bold text-white">
+            Supply<span className="text-accent">r</span>
           </p>
-          <p className="mt-2 text-sm leading-relaxed">
-            Construction supplies for Toronto and the GTA. Catalog owned and
-            curated by Kings Valley Homes — with room to grow into a multi-supplier
-            marketplace.
+          <p className="mt-3 max-w-xs text-sm leading-relaxed">
+            Construction supplies for Toronto and the Greater Toronto Area.
+            Catalog curated by Kings Valley Homes for trade and jobsite crews.
           </p>
         </div>
         <div>
-          <p className="text-sm font-semibold uppercase tracking-wide text-slate-400">
+          <p className="text-xs font-semibold uppercase tracking-[0.14em] text-white/45">
             Shop
           </p>
-          <ul className="mt-3 space-y-2 text-sm">
+          <ul className="mt-4 space-y-2.5 text-sm">
             <li>
               <Link href="/search" className="hover:text-white">
                 All products
@@ -34,20 +33,34 @@ export function Footer() {
                 Tools & equipment
               </Link>
             </li>
+            <li>
+              <Link href="/categories/safety-ppe" className="hover:text-white">
+                Safety & PPE
+              </Link>
+            </li>
           </ul>
         </div>
         <div>
-          <p className="text-sm font-semibold uppercase tracking-wide text-slate-400">
+          <p className="text-xs font-semibold uppercase tracking-[0.14em] text-white/45">
             Delivery
           </p>
-          <p className="mt-3 text-sm leading-relaxed">
-            Placeholder GTA delivery: free on orders $500+ CAD before tax.
-            Flat $49.99 under that. Exact windows confirmed after checkout.
+          <p className="mt-4 text-sm leading-relaxed">
+            GTA delivery: free on orders $500+ CAD before tax. Flat $49.99 under
+            that. Exact windows confirmed after checkout.
+          </p>
+        </div>
+        <div>
+          <p className="text-xs font-semibold uppercase tracking-[0.14em] text-white/45">
+            Trade
+          </p>
+          <p className="mt-4 text-sm leading-relaxed">
+            Trade accounts welcome. Pricing in CAD with HST calculated at
+            checkout. Returns accepted on unused stocked items within 30 days.
           </p>
         </div>
       </div>
-      <div className="border-t border-slate-800 py-4 text-center text-xs text-slate-500">
-        © {new Date().getFullYear()} Kings Valley Homes · Supplyr MVP · Prices in CAD
+      <div className="border-t border-white/10 py-4 text-center text-xs text-white/40">
+        © {new Date().getFullYear()} Kings Valley Homes · Supplyr · Prices in CAD
       </div>
     </footer>
   );

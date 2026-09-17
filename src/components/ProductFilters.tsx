@@ -43,45 +43,45 @@ export function ProductFilters({
   return (
     <form
       onSubmit={onSubmit}
-      className="flex flex-col gap-3 rounded-xl border border-slate-200 bg-white p-4 shadow-sm"
+      className="flex flex-col gap-4 rounded-xl border border-border bg-surface p-5 shadow-sm lg:sticky lg:top-28"
     >
-      <p className="text-sm font-semibold text-slate-900">Filters</p>
+      <p className="font-display text-base font-semibold text-ink">Filters</p>
       {showSearch ? (
-        <label className="block text-xs font-medium text-slate-600">
+        <label className="block text-xs font-semibold uppercase tracking-wide text-ink-muted">
           Search
           <input
             value={q}
             onChange={(e) => setQ(e.target.value)}
-            className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm"
+            className="input-field mt-1.5 normal-case tracking-normal"
             placeholder="Name, SKU, description"
           />
         </label>
       ) : null}
-      <div className="grid grid-cols-2 gap-2">
-        <label className="block text-xs font-medium text-slate-600">
-          Min price ($)
+      <div className="grid grid-cols-2 gap-3">
+        <label className="block text-xs font-semibold uppercase tracking-wide text-ink-muted">
+          Min ($)
           <input
             type="number"
             min={0}
             step="0.01"
             value={min}
             onChange={(e) => setMin(e.target.value)}
-            className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm"
+            className="input-field mt-1.5 normal-case tracking-normal"
           />
         </label>
-        <label className="block text-xs font-medium text-slate-600">
-          Max price ($)
+        <label className="block text-xs font-semibold uppercase tracking-wide text-ink-muted">
+          Max ($)
           <input
             type="number"
             min={0}
             step="0.01"
             value={max}
             onChange={(e) => setMax(e.target.value)}
-            className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm"
+            className="input-field mt-1.5 normal-case tracking-normal"
           />
         </label>
       </div>
-      <label className="flex items-center gap-2 text-sm text-slate-700">
+      <label className="flex items-center gap-2.5 text-sm text-ink">
         <input
           type="checkbox"
           checked={inStock}
@@ -94,10 +94,11 @@ export function ProductFilters({
               sort,
             })
           }
+          className="h-4 w-4 rounded border-border-strong text-accent accent-accent"
         />
         In stock only
       </label>
-      <label className="block text-xs font-medium text-slate-600">
+      <label className="block text-xs font-semibold uppercase tracking-wide text-ink-muted">
         Sort
         <select
           value={sort}
@@ -110,7 +111,7 @@ export function ProductFilters({
               inStock: inStock ? "1" : undefined,
             })
           }
-          className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2 text-sm"
+          className="input-field mt-1.5 normal-case tracking-normal"
         >
           <option value="featured">Featured</option>
           <option value="price-asc">Price: low to high</option>
@@ -119,11 +120,8 @@ export function ProductFilters({
           <option value="name-desc">Name: Z–A</option>
         </select>
       </label>
-      <button
-        type="submit"
-        className="rounded-lg bg-slate-900 px-3 py-2 text-sm font-medium text-white hover:bg-slate-800"
-      >
-        Apply
+      <button type="submit" className="btn-navy w-full">
+        Apply filters
       </button>
     </form>
   );
