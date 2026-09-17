@@ -39,6 +39,7 @@ npm start
 | Cart | `/cart` |
 | Checkout (mock payment) | `/checkout` |
 | Order confirmation | `/orders/[id]` |
+| Live order tracking (map + timeline) | `/orders/[id]/track` |
 | Installation calculator | `/calculator` |
 | Supplyr Pro (trade accounts) | `/pro` |
 | Admin (password gate) | `/admin` |
@@ -75,6 +76,17 @@ Prefer `orderby=popularity` — those results include images and categories. Ded
 ## Admin
 
 Set `ADMIN_PASSWORD` in `.env.local`. Visit `/admin` and sign in. Shows product counts and recent orders.
+
+
+## Live order tracking (demo)
+
+After checkout, open **Track order** on the confirmation page (`/orders/[id]/track`).
+
+- Amazon-style status timeline: Order placed → Preparing → Out for delivery → Nearby → Delivered
+- Uber-style live map (Leaflet + OpenStreetMap / CARTO dark tiles) with yellow courier marker
+- Client polls `GET /api/orders/[id]/tracking` every ~2.5s; the server advances a deterministic depot→destination polyline simulation
+
+**Replace the simulation with real telematics later:** keep the same order fields (`status`, `statusHistory`, `destination`, `driver`, `etaMinutes`) and have your courier GPS / webhook write those fields (or push to the tracking route). Remove or gate `advanceTrackingSimulation` in `src/lib/tracking.ts` / the tracking API once live positions arrive from your fleet provider.
 
 ## Architecture notes
 

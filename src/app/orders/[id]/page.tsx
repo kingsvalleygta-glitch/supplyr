@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { formatCAD, formatDate } from "@/lib/format";
 import { orderRepository } from "@/lib/repositories/orderRepository";
+import { STATUS_LABELS } from "@/lib/tracking";
 
 type Props = { params: Promise<{ id: string }> };
 
@@ -15,6 +16,9 @@ export default async function OrderConfirmationPage({ params }: Props) {
   const order = await orderRepository.getByIdAsync(id);
   if (!order) notFound();
 
+  const statusLabel =
+    STATUS_LABELS[order.status] ?? String(order.status).replaceAll("_", " ");
+
   return (
     <div className="container-site max-w-2xl py-10 sm:py-12">
       <div className="rounded-2xl border border-success/25 bg-success-soft p-8 text-center shadow-sm">
@@ -25,7 +29,16 @@ export default async function OrderConfirmationPage({ params }: Props) {
           {order.id}
         </h1>
         <p className="mt-2 text-sm text-ink-muted">
-          Placed {formatDate(order.createdAt)} · Status: {order.status}
+          Placed {formatDate(order.createdAt)} · Status: {statusLabel}
+        </p>
+        <Link
+          href={`/orders/${order.id}/track`}
+          className="btn-primary mt-6 inline-flex"
+        >
+          Track order
+        </Link>
+        <p className="mt-2 text-xs text-ink-faint">
+          Live map + Amazon-style timeline (demo)
         </p>
       </div>
 
@@ -102,6 +115,9 @@ export default async function OrderConfirmationPage({ params }: Props) {
       </div>
 
       <div className="mt-8 flex flex-wrap justify-center gap-3">
+        <Link href={`/orders/${order.id}/track`} className="btn-primary">
+          Track order
+        </Link>
         <Link href="/search" className="btn-navy">
           Continue shopping
         </Link>

@@ -56,7 +56,37 @@ export interface OrderLine {
   supplierId: SupplierId;
 }
 
-export type OrderStatus = "confirmed" | "processing" | "shipped" | "cancelled";
+/** Amazon-style delivery timeline statuses (plus cancelled). */
+export type TrackingStatus =
+  | "placed"
+  | "preparing"
+  | "out_for_delivery"
+  | "nearby"
+  | "delivered"
+  | "cancelled";
+
+/** @deprecated Prefer TrackingStatus — kept as alias for older call sites. */
+export type OrderStatus = TrackingStatus;
+
+export interface StatusHistoryEntry {
+  status: TrackingStatus;
+  at: string;
+  label?: string;
+}
+
+export interface GeoPoint {
+  lat: number;
+  lng: number;
+}
+
+export interface Destination extends GeoPoint {
+  address: string;
+}
+
+export interface DriverLocation extends GeoPoint {
+  heading?: number;
+  name?: string;
+}
 
 export interface ShippingAddress {
   company: string;
@@ -73,7 +103,8 @@ export interface ShippingAddress {
 export interface Order {
   id: string;
   createdAt: string;
-  status: OrderStatus;
+  status: TrackingStatus;
+  statusHistory: StatusHistoryEntry[];
   lines: OrderLine[];
   subtotalCents: number;
   shippingCents: number;
@@ -82,6 +113,14 @@ export interface Order {
   shipping: ShippingAddress;
   deliveryNotes?: string;
   paymentMethod: string;
+  /** Delivery destination for live map */
+  destination: Destination;
+  /** Courier position (simulated or telematics) */
+  driver?: DriverLocation;
+  /** Estimated minutes until delivery */
+  etaMinutes?: number;
+  /** When the demo / real tracking clock started */
+  simulationStartedAt?: string;
 }
 
 export interface ProductFilters {
@@ -108,7 +147,19 @@ export interface CategoryRepository {
 }
 
 export interface OrderRepository {
-  create(order: Omit<Order, "id" | "createdAt" | "status">): Order;
+  create(
+    order: Omit<
+      Order,
+      | "id"
+      | "createdAt"
+      | "status"
+      | "statusHistory"
+      | "destination"
+      | "driver"
+      | "etaMinutes"
+      | "simulationStartedAt"
+    >
+  ): Order;
   getById(id: string): Order | undefined;
   list(): Order[];
 }

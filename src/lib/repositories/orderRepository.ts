@@ -1,5 +1,6 @@
 import { promises as fs } from "fs";
 import path from "path";
+import { initialTrackingFields } from "@/lib/tracking";
 import type { Order, OrderRepository } from "@/lib/types";
 
 const ORDERS_PATH = path.join(process.cwd(), "data", "orders.json");
@@ -26,14 +27,25 @@ function makeId(): string {
   return `ORD-${n}-${r}`;
 }
 
+type CreateInput = Omit<
+  Order,
+  | "id"
+  | "createdAt"
+  | "status"
+  | "statusHistory"
+  | "destination"
+  | "driver"
+  | "etaMinutes"
+  | "simulationStartedAt"
+>;
+
 export const orderRepository: OrderRepository & {
-  createAsync: (
-    order: Omit<Order, "id" | "createdAt" | "status">
-  ) => Promise<Order>;
+  createAsync: (order: CreateInput) => Promise<Order>;
   getByIdAsync: (id: string) => Promise<Order | undefined>;
   listAsync: () => Promise<Order[]>;
+  updateAsync: (order: Order) => Promise<Order>;
 } = {
-  create(order) {
+  create() {
     throw new Error("Use createAsync on the server");
   },
   getById() {
@@ -44,11 +56,12 @@ export const orderRepository: OrderRepository & {
   },
   async createAsync(input) {
     const orders = await ensureStore();
+    const tracking = initialTrackingFields(input.shipping);
     const order: Order = {
       ...input,
       id: makeId(),
       createdAt: new Date().toISOString(),
-      status: "confirmed",
+      ...tracking,
     };
     orders.unshift(order);
     await writeStore(orders);
@@ -60,5 +73,15 @@ export const orderRepository: OrderRepository & {
   },
   async listAsync() {
     return ensureStore();
+  },
+  async updateAsync(order) {
+    const orders = await ensureStore();
+    const idx = orders.findIndex((o) => o.id === order.id);
+    if (idx === -1) {
+      throw new Error(`Order ${order.id} not found`);
+    }
+    orders[idx] = order;
+    await writeStore(orders);
+    return order;
   },
 };
