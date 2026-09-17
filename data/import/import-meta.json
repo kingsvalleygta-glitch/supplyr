@@ -1,10 +1,10 @@
 {
-  "imported": 4960,
+  "imported": 5162,
   "categories": 15,
   "catalogTotalReported": 17236,
-  "remainingApprox": 12276,
+  "remainingApprox": 12074,
   "source": "https://flooreno.ca WooCommerce Store API via Apify apify/web-fetch",
-  "strategy": "Category pagination + popularity pages. Popularity pages flaky on CF; category URLs succeed.",
+  "strategy": "Category pagination + popularity + orderby=id. High id-order pages target long-tail products.",
   "pop100PagesHave": [
     1,
     2,
@@ -38,6 +38,11 @@
     37,
     39,
     41
+  ],
+  "idAscPagesHave": [
+    2,
+    3,
+    4
   ],
   "pop100PagesMissingSample": [
     8,
@@ -152,6 +157,6 @@
       1
     ]
   },
-  "updatedAt": "2026-09-17T18:07:49.269478-04:00",
-  "note": "Partial sync ~4960. Continuing category pagination toward 10k."
+  "updatedAt": "2026-09-17T18:10:56.133134-04:00",
+  "note": "Partial sync ~5162. Past 5k milestone; continuing orderby=id toward 10k."
 }
