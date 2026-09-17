@@ -1,5 +1,6 @@
 {
-  "have": [
+  "unique_products": 3967,
+  "have_pop100": [
     1,
     2,
     3,
@@ -33,7 +34,20 @@
     39,
     41
   ],
-  "pending_runs": {},
-  "failed_pages": [],
-  "unique_products": 3022
+  "have_cat": {
+    "14582": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "pending_runs": {}
 }

@@ -1,10 +1,10 @@
 {
-  "imported": 3022,
+  "imported": 3967,
   "categories": 15,
-  "source": "https://flooreno.ca WooCommerce Store API via Apify apify/web-fetch (unblocker)",
   "catalogTotalReported": 17236,
-  "note": "Partial sync. Continue Apify web-fetch popularity pages into data/import/raw/page-pop100-N.json then re-run transform_flooreno.py",
-  "remainingApprox": 14214,
+  "remainingApprox": 13269,
+  "source": "https://flooreno.ca WooCommerce Store API via Apify apify/web-fetch",
+  "strategy": "Category pagination (paint 14582 complete 11/11). Popularity pages flaky on CF for uncached URLs; category URLs succeed.",
   "pop100PagesHave": [
     1,
     2,
@@ -69,16 +69,22 @@
     59,
     60,
     61,
-    62,
-    63,
-    64,
-    65,
-    66,
-    67,
-    68,
-    69,
-    70,
-    71,
-    72
-  ]
+    62
+  ],
+  "categoryPagesHave": {
+    "14582": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "note": "Partial sync. Prefer ?category=ID&per_page=100&page=N via Apify web-fetch; also retry missing popularity pages when CF allows."
 }
