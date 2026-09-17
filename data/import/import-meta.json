@@ -1,8 +1,8 @@
 {
   "source": "flooreno.ca WooCommerce Store API",
   "orderby": "mixed (popularity + category + id-asc)",
-  "productCount": 6530,
+  "productCount": 6819,
   "categoryCount": 15,
-  "rawFiles": 110,
-  "updatedAt": "2026-09-17T18:18:34.639178-04:00"
+  "rawFiles": 113,
+  "updatedAt": "2026-09-17T18:20:10.032101-04:00"
 }
