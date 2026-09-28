@@ -82,7 +82,7 @@ export default async function ProductPage({ params }: Props) {
             {product.name}
           </h1>
           <p className="mt-2 text-sm text-ink-muted">
-            Sold by {product.sellerName ?? "Kings Valley Homes"}
+            Sold by {product.sellerName ?? "Supplyr"}
           </p>
 
           <div className="mt-6 flex flex-wrap items-baseline gap-3">

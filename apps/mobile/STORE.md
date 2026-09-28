@@ -1,6 +1,6 @@
 # Supplyr — App Store & Google Play publish checklist (Expo EAS)
 
-Bundle ID / package (already set): `ca.kingsvalleyhomes.supplyr`
+Bundle ID / package (already set): `ca.supplyr.app`
 
 This repo is **config-ready**. You still need developer accounts before any store build or submit. Do **not** invent credentials in CI or chat.
 
@@ -125,7 +125,7 @@ Or upload the artifact manually from the EAS build page into App Store Connect /
 
 ### App Store Connect (iOS) — after Apple Developer is active
 
-1. Create app with bundle ID `ca.kingsvalleyhomes.supplyr`
+1. Create app with bundle ID `ca.supplyr.app`
 2. Fill name, subtitle, description, keywords, support URL, privacy policy URL
 3. Upload screenshots + age rating
 4. Attach the production build from EAS
@@ -133,7 +133,7 @@ Or upload the artifact manually from the EAS build page into App Store Connect /
 
 ### Google Play Console — after Play developer account is active
 
-1. Create app with package `ca.kingsvalleyhomes.supplyr`
+1. Create app with package `ca.supplyr.app`
 2. Complete store listing, content rating, data safety, privacy policy
 3. Upload production AAB (internal/closed track first is safest)
 4. Roll out to production when ready

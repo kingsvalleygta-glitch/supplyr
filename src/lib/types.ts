@@ -1,6 +1,6 @@
-/** Core domain types for Supplyr (KVH-owned catalog with marketplace seams). */
+/** Core domain types for Supplyr (owned catalog with marketplace seams). */
 
-export type SupplierId = "kvh" | string;
+export type SupplierId = "supplyr" | string;
 
 export interface Category {
   id: string;

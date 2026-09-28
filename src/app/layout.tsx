@@ -20,11 +20,11 @@ const archivo = Archivo({
 
 export const metadata: Metadata = {
   title: {
-    default: "Supplyr · Construction supplies by Kings Valley Homes",
+    default: "Supplyr · Construction supplies for Toronto and the GTA",
     template: "%s · Supplyr",
   },
   description:
-    "Trade construction supplies for Toronto and the GTA. Lumber, fasteners, concrete, electrical, plumbing, tools, and more — from Kings Valley Homes.",
+    "Trade construction supplies for Toronto and the GTA. Lumber, fasteners, concrete, electrical, plumbing, tools, and more.",
 };
 
 export default function RootLayout({

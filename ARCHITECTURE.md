@@ -2,7 +2,7 @@
 
 ## Current model (MVP)
 
-- **Single catalog owner:** Kings Valley Homes curates and sells all SKUs.
+- **Single catalog owner:** Supplyr curates and sells all SKUs.
 - **No seller onboarding, payouts, or multi-vendor checkout.**
 - **Cart** is client-side (`localStorage` via `CartProvider`).
 - **Orders** are created through `POST /api/orders` and stored in `data/orders.json`.
@@ -28,10 +28,10 @@ UI (App Router pages)
 ## Suggested evolution path
 
 1. **Persistence:** Replace JSON with Prisma + SQLite/Postgres; keep repository method signatures.
-2. **Suppliers:** Add `Supplier` entity; filter admin by `supplierId`; still single checkout entity (KVH as merchant of record).
+2. **Suppliers:** Add `Supplier` entity; filter admin by `supplierId`; still single checkout entity (Supplyr as merchant of record).
 3. **Inventory sync:** Background jobs update `stockQty` / `inStock` per supplier feed.
 4. **Multi-vendor checkout (later):** Split cart by `supplierId`, per-seller shipping quotes, escrow/payouts — **out of scope for this MVP**.
-5. **Auth:** Replace cookie admin gate with proper auth (Clerk/Auth.js) and role-based access (`kvh_admin`, `supplier`).
+5. **Auth:** Replace cookie admin gate with proper auth (Clerk/Auth.js) and role-based access (`supplyr_admin`, `supplier`).
 
 ## Deliberately not built
 
