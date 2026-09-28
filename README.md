@@ -1,6 +1,6 @@
 # Supplyr
 
-**Construction supplies storefront** for [Kings Valley Homes](https://kingsvalleyhomes.ca) (Toronto / GTA). Wayfair-style catalog UX with a catalog mirrored from [FlooReno](https://flooreno.ca) for Supplyr, plus deliberate seams for a future multi-supplier marketplace.
+**Construction supplies storefront** for Toronto and the GTA. Wayfair-style catalog UX with a catalog mirrored from [FlooReno](https://flooreno.ca) for Supplyr, plus deliberate seams for a future multi-supplier marketplace.
 
 ## Stack
 
@@ -94,7 +94,7 @@ See [ARCHITECTURE.md](./ARCHITECTURE.md) for hybrid → marketplace extension po
 
 ## License
 
-Private / proprietary to Kings Valley Homes unless otherwise stated.
+Private / proprietary to Supplyr unless otherwise stated.
 
 ## Mobile app (Expo)
 

@@ -104,7 +104,7 @@ export function Header() {
               Supply<span className="text-accent">r</span>
             </span>
             <span className="mt-0.5 hidden text-[10px] font-semibold uppercase tracking-[0.14em] text-ink-faint sm:block">
-              by Kings Valley Homes
+              Toronto / GTA
             </span>
           </span>
         </Link>

@@ -10,7 +10,7 @@ export function Footer() {
           </p>
           <p className="mt-3 max-w-xs text-sm leading-relaxed">
             Construction supplies for Toronto and the Greater Toronto Area.
-            Catalog curated by Kings Valley Homes for trade and jobsite crews.
+            Catalog curated by Supplyr for trade and jobsite crews.
           </p>
         </div>
         <div>
@@ -73,7 +73,7 @@ export function Footer() {
         </div>
       </div>
       <div className="border-t border-white/10 py-4 text-center text-xs text-white/40">
-        © {new Date().getFullYear()} Kings Valley Homes · Supplyr · Prices in CAD
+        © {new Date().getFullYear()} Supplyr · Prices in CAD
       </div>
     </footer>
   );

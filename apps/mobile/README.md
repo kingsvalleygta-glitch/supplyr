@@ -1,6 +1,6 @@
 # Supplyr mobile (Expo)
 
-Native iOS **and** Android app for [Supplyr](https://supplyr-two.vercel.app) — Kings Valley Homes construction supplies. Built with **Expo SDK 54+ / Expo Router**, designed to run in **Expo Go** on both platforms.
+Native iOS **and** Android app for [Supplyr](https://supplyr-two.vercel.app) — construction supplies for Toronto and the GTA. Built with **Expo SDK 54+ / Expo Router**, designed to run in **Expo Go** on both platforms.
 
 ## Prerequisites
 

@@ -42,7 +42,7 @@ export default function ProPage() {
               <span className="text-accent">buy like pros.</span>
             </h1>
             <p className="mt-5 max-w-xl text-base leading-relaxed text-white/70 sm:text-lg">
-              Supplyr Pro is the contractor program for Kings Valley Homes crews
+              Supplyr Pro is the contractor program for jobsite crews
               and partner trades — bulk-friendly pricing, priority support, and
               catalog access tuned for renovations and new builds.
             </p>

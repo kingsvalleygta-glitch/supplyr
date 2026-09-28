@@ -1,4 +1,4 @@
-export type SupplierId = "kvh" | string;
+export type SupplierId = "supplyr" | string;
 
 export interface Category {
   id: string;

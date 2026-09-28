@@ -65,7 +65,7 @@ export default function HomePage() {
         <div className="container-site relative grid gap-12 py-20 sm:py-24 lg:grid-cols-[1.2fr_0.8fr] lg:items-center lg:gap-16 lg:py-32">
           <div>
             <p className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-3 py-1 text-[11px] font-bold uppercase tracking-[0.16em] text-accent sm:text-xs">
-              Kings Valley Homes · Toronto / GTA
+              Supplyr · Toronto / GTA
             </p>
             <h1 className="font-display mt-6 text-[2.35rem] font-bold leading-[1.05] tracking-tight sm:text-5xl lg:text-[3.75rem]">
               Construction supplies,{" "}

@@ -64,7 +64,7 @@ export default function HomeScreen() {
       }
     >
       <View style={styles.hero}>
-        <Text style={styles.kicker}>Kings Valley Homes · Toronto / GTA</Text>
+        <Text style={styles.kicker}>Supplyr · Toronto / GTA</Text>
         <Text style={styles.heroTitle}>
           Construction supplies,{" "}
           <Text style={styles.heroAccent}>ready for the jobsite.</Text>
